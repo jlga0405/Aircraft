@@ -1,0 +1,782 @@
+[
+  {
+    "productcode": "C2F9822M72",
+    "stockstatus": 40,
+    "productprice": 57
+  },
+  {
+    "productcode": "C2F9822M72-ROLL",
+    "stockstatus": 40,
+    "productprice": 3420
+  },
+  {
+    "productcode": "C2F9822M96",
+    "stockstatus": 40,
+    "productprice": 76
+  },
+  {
+    "productcode": "C2F9822M96-ROLL",
+    "stockstatus": 40,
+    "productprice": 4560
+  },
+  {
+    "productcode": "C2F9823M72",
+    "stockstatus": 40,
+    "productprice": 57
+  },
+  {
+    "productcode": "C2F9823M72-ROLL",
+    "stockstatus": 40,
+    "productprice": 3420
+  },
+  {
+    "productcode": "C2F9823M96",
+    "stockstatus": 40,
+    "productprice": 76
+  },
+  {
+    "productcode": "C2F9823M96-ROLL",
+    "stockstatus": 40,
+    "productprice": 4560
+  },
+  {
+    "productcode": "C2F9883M72",
+    "stockstatus": 40,
+    "productprice": 57
+  },
+  {
+    "productcode": "C2F9883M72-ROLL",
+    "stockstatus": 40,
+    "productprice": 3420
+  },
+  {
+    "productcode": "C2F9883M96",
+    "stockstatus": 40,
+    "productprice": 76
+  },
+  {
+    "productcode": "C2F9883M96-ROLL",
+    "stockstatus": 40,
+    "productprice": 4560
+  },
+  {
+    "productcode": "C2F9887M72",
+    "stockstatus": 40,
+    "productprice": 57
+  },
+  {
+    "productcode": "C2F9887M72-ROLL",
+    "stockstatus": 40,
+    "productprice": 3420
+  },
+  {
+    "productcode": "C2F9887M96",
+    "stockstatus": 40,
+    "productprice": 76
+  },
+  {
+    "productcode": "C2F9887M96-ROLL",
+    "stockstatus": 40,
+    "productprice": 4560
+  },
+  {
+    "productcode": "C2F9891M72",
+    "stockstatus": 40,
+    "productprice": 57
+  },
+  {
+    "productcode": "C2F9891M72-ROLL",
+    "stockstatus": 40,
+    "productprice": 3420
+  },
+  {
+    "productcode": "C2F9891M96",
+    "stockstatus": 40,
+    "productprice": 76
+  },
+  {
+    "productcode": "C2F9891M96-ROLL",
+    "stockstatus": 40,
+    "productprice": 4560
+  },
+  {
+    "productcode": "C2F9893M72",
+    "stockstatus": 40,
+    "productprice": 57
+  },
+  {
+    "productcode": "C2F9893M72-ROLL",
+    "stockstatus": 40,
+    "productprice": 3420
+  },
+  {
+    "productcode": "C2F9893M96",
+    "stockstatus": 40,
+    "productprice": 76
+  },
+  {
+    "productcode": "C2F9893M96-ROLL",
+    "stockstatus": 40,
+    "productprice": 4560
+  },
+  {
+    "productcode": "C2F9895M72",
+    "stockstatus": 40,
+    "productprice": 57
+  },
+  {
+    "productcode": "C2F9895M72-ROLL",
+    "stockstatus": 40,
+    "productprice": 3420
+  },
+  {
+    "productcode": "C2F9895M96",
+    "stockstatus": 40,
+    "productprice": 76
+  },
+  {
+    "productcode": "C2F9895M96-ROLL",
+    "stockstatus": 40,
+    "productprice": 4560
+  },
+  {
+    "productcode": "C2F9896M72",
+    "stockstatus": 40,
+    "productprice": 57
+  },
+  {
+    "productcode": "C2F9896M72-ROLL",
+    "stockstatus": 40,
+    "productprice": 3420
+  },
+  {
+    "productcode": "C2F9896M96",
+    "stockstatus": 40,
+    "productprice": 76
+  },
+  {
+    "productcode": "C2F9896M96-ROLL",
+    "stockstatus": 40,
+    "productprice": 4560
+  },
+  {
+    "productcode": "C2F9899M72",
+    "stockstatus": 40,
+    "productprice": 57
+  },
+  {
+    "productcode": "C2F9899M72-ROLL",
+    "stockstatus": 40,
+    "productprice": 3420
+  },
+  {
+    "productcode": "C2F9899M96",
+    "stockstatus": 40,
+    "productprice": 76
+  },
+  {
+    "productcode": "C2F9899M96-ROLL",
+    "stockstatus": 40,
+    "productprice": 4560
+  },
+  {
+    "productcode": "CM601",
+    "stockstatus": 40,
+    "productprice": "55,5"
+  },
+  {
+    "productcode": "CM601-ROLL",
+    "stockstatus": 40,
+    "productprice": 3330
+  },
+  {
+    "productcode": "CM602",
+    "stockstatus": 40,
+    "productprice": "55,5"
+  },
+  {
+    "productcode": "CM602-ROLL",
+    "stockstatus": 40,
+    "productprice": 3330
+  },
+  {
+    "productcode": "CM603",
+    "stockstatus": 40,
+    "productprice": "55,5"
+  },
+  {
+    "productcode": "CM603-ROLL",
+    "stockstatus": 40,
+    "productprice": 3330
+  },
+  {
+    "productcode": "CM604",
+    "stockstatus": 40,
+    "productprice": "55,5"
+  },
+  {
+    "productcode": "CM604-ROLL",
+    "stockstatus": 40,
+    "productprice": 3330
+  },
+  {
+    "productcode": "CM605",
+    "stockstatus": 40,
+    "productprice": "55,5"
+  },
+  {
+    "productcode": "CM605-ROLL",
+    "stockstatus": 40,
+    "productprice": 3330
+  },
+  {
+    "productcode": "CPF9347M72",
+    "stockstatus": 40,
+    "productprice": 57
+  },
+  {
+    "productcode": "CPF9347M72-ROLL",
+    "stockstatus": 40,
+    "productprice": 3420
+  },
+  {
+    "productcode": "CPF9348M72",
+    "stockstatus": 40,
+    "productprice": 57
+  },
+  {
+    "productcode": "CPF9348M72-ROLL",
+    "stockstatus": 40,
+    "productprice": 3420
+  },
+  {
+    "productcode": "CPF9352M72",
+    "stockstatus": 40,
+    "productprice": 57
+  },
+  {
+    "productcode": "CPF9352M72-ROLL",
+    "stockstatus": 40,
+    "productprice": 3420
+  },
+  {
+    "productcode": "CPF9353M72",
+    "stockstatus": 40,
+    "productprice": 57
+  },
+  {
+    "productcode": "CPF9353M72-ROLL",
+    "stockstatus": 40,
+    "productprice": 3420
+  },
+  {
+    "productcode": "CPF9395M72",
+    "stockstatus": 40,
+    "productprice": 57
+  },
+  {
+    "productcode": "CPF9395M72-ROLL",
+    "stockstatus": 40,
+    "productprice": 3420
+  },
+  {
+    "productcode": "CTF9401D72",
+    "stockstatus": 40,
+    "productprice": "62,5"
+  },
+  {
+    "productcode": "CTF9401D72-ROLL",
+    "stockstatus": 40,
+    "productprice": 3750
+  },
+  {
+    "productcode": "CTF9402D72",
+    "stockstatus": 40,
+    "productprice": "62,5"
+  },
+  {
+    "productcode": "CTF9402D72-ROLL",
+    "stockstatus": 40,
+    "productprice": 3750
+  },
+  {
+    "productcode": "CTF9403D72",
+    "stockstatus": 40,
+    "productprice": "62,5"
+  },
+  {
+    "productcode": "CTF9403D72-ROLL",
+    "stockstatus": 40,
+    "productprice": 3750
+  },
+  {
+    "productcode": "CTF9404D72",
+    "stockstatus": 40,
+    "productprice": "62,5"
+  },
+  {
+    "productcode": "CTF9404D72-ROLL",
+    "stockstatus": 40,
+    "productprice": 3750
+  },
+  {
+    "productcode": "D102FW",
+    "stockstatus": 40,
+    "productprice": 76
+  },
+  {
+    "productcode": "D102FW-ROLL",
+    "stockstatus": 40,
+    "productprice": 4500
+  },
+  {
+    "productcode": "EQF9914M96",
+    "stockstatus": 40,
+    "productprice": "75,5"
+  },
+  {
+    "productcode": "EQF9914M96-ROLL",
+    "stockstatus": 40,
+    "productprice": 4530
+  },
+  {
+    "productcode": "EQF9922M96",
+    "stockstatus": 40,
+    "productprice": "75,5"
+  },
+  {
+    "productcode": "EQF9922M96-ROLL",
+    "stockstatus": 40,
+    "productprice": 4530
+  },
+  {
+    "productcode": "EQF9983M96",
+    "stockstatus": 40,
+    "productprice": "75,5"
+  },
+  {
+    "productcode": "EQF9983M96-ROLL",
+    "stockstatus": 40,
+    "productprice": 4530
+  },
+  {
+    "productcode": "EQF9995M96",
+    "stockstatus": 40,
+    "productprice": "75,5"
+  },
+  {
+    "productcode": "EQF9995M96-ROLL",
+    "stockstatus": 40,
+    "productprice": 4530
+  },
+  {
+    "productcode": "MS10",
+    "stockstatus": 40,
+    "productprice": 53
+  },
+  {
+    "productcode": "MS10-ROLL",
+    "stockstatus": 40,
+    "productprice": 3180
+  },
+  {
+    "productcode": "MS11",
+    "stockstatus": 40,
+    "productprice": 59.97
+  },
+  {
+    "productcode": "MS11-ROLL",
+    "stockstatus": 40,
+    "productprice": 3180
+  },
+  {
+    "productcode": "MS12",
+    "stockstatus": 40,
+    "productprice": 53
+  },
+  {
+    "productcode": "MS12-ROLL",
+    "stockstatus": 40,
+    "productprice": 3180
+  },
+  {
+    "productcode": "MS13",
+    "stockstatus": 40,
+    "productprice": 53
+  },
+  {
+    "productcode": "MS13-ROLL",
+    "stockstatus": 40,
+    "productprice": 3180
+  },
+  {
+    "productcode": "MS14",
+    "stockstatus": 40,
+    "productprice": 53
+  },
+  {
+    "productcode": "MS14-ROLL",
+    "stockstatus": 40,
+    "productprice": 3180
+  },
+  {
+    "productcode": "MS15",
+    "stockstatus": 40,
+    "productprice": 53
+  },
+  {
+    "productcode": "MS15-ROLL",
+    "stockstatus": 40,
+    "productprice": 3180
+  },
+  {
+    "productcode": "MTF9059D72",
+    "stockstatus": 40,
+    "productprice": 61
+  },
+  {
+    "productcode": "MTF9059D72-ROLL",
+    "stockstatus": 40,
+    "productprice": 3660
+  },
+  {
+    "productcode": "MTF9060D72",
+    "stockstatus": 40,
+    "productprice": 61
+  },
+  {
+    "productcode": "MTF9060D72-ROLL",
+    "stockstatus": 40,
+    "productprice": 3660
+  },
+  {
+    "productcode": "MW3473",
+    "stockstatus": 40,
+    "productprice": 53
+  },
+  {
+    "productcode": "MW3473-ROLL",
+    "stockstatus": 40,
+    "productprice": 3180
+  },
+  {
+    "productcode": "MW3475",
+    "stockstatus": 40,
+    "productprice": 53
+  },
+  {
+    "productcode": "MW3475-ROLL",
+    "stockstatus": 40,
+    "productprice": 3180
+  },
+  {
+    "productcode": "MW370",
+    "stockstatus": 40,
+    "productprice": 53
+  },
+  {
+    "productcode": "MW370-ROLL",
+    "stockstatus": 40,
+    "productprice": 3180
+  },
+  {
+    "productcode": "MW371",
+    "stockstatus": 40,
+    "productprice": 53
+  },
+  {
+    "productcode": "MW371-ROLL",
+    "stockstatus": 40,
+    "productprice": 3180
+  },
+  {
+    "productcode": "MW373",
+    "stockstatus": 40,
+    "productprice": 53
+  },
+  {
+    "productcode": "MW373-ROLL",
+    "stockstatus": 40,
+    "productprice": 3180
+  },
+  {
+    "productcode": "P400",
+    "stockstatus": 40,
+    "productprice": 62
+  },
+  {
+    "productcode": "P400-ROLL",
+    "stockstatus": 40,
+    "productprice": 3710
+  },
+  {
+    "productcode": "P404TX",
+    "stockstatus": 40,
+    "productprice": 62
+  },
+  {
+    "productcode": "P404TX-ROLL",
+    "stockstatus": 40,
+    "productprice": 3710
+  },
+  {
+    "productcode": "P411",
+    "stockstatus": 40,
+    "productprice": 52
+  },
+  {
+    "productcode": "P411-ROLL",
+    "stockstatus": 40,
+    "productprice": 3120
+  },
+  {
+    "productcode": "P419TX",
+    "stockstatus": 40,
+    "productprice": 52
+  },
+  {
+    "productcode": "P419TX-ROLL",
+    "stockstatus": 40,
+    "productprice": 3120
+  },
+  {
+    "productcode": "P421",
+    "stockstatus": 40,
+    "productprice": 52
+  },
+  {
+    "productcode": "P421-ROLL",
+    "stockstatus": 40,
+    "productprice": 3120
+  },
+  {
+    "productcode": "P424",
+    "stockstatus": 40,
+    "productprice": 52
+  },
+  {
+    "productcode": "P424-ROLL",
+    "stockstatus": 40,
+    "productprice": 3120
+  },
+  {
+    "productcode": "P424TX",
+    "stockstatus": 40,
+    "productprice": 52
+  },
+  {
+    "productcode": "P424TX-ROLL",
+    "stockstatus": 40,
+    "productprice": 3120
+  },
+  {
+    "productcode": "P443",
+    "stockstatus": 40,
+    "productprice": 52
+  },
+  {
+    "productcode": "P443-ROLL",
+    "stockstatus": 40,
+    "productprice": 3120
+  },
+  {
+    "productcode": "P443TXM",
+    "stockstatus": 40,
+    "productprice": 52
+  },
+  {
+    "productcode": "P443TXM-ROLL",
+    "stockstatus": 40,
+    "productprice": 3120
+  },
+  {
+    "productcode": "P8421",
+    "stockstatus": 40,
+    "productprice": 65
+  },
+  {
+    "productcode": "P8421-ROLL",
+    "stockstatus": 40,
+    "productprice": 3900
+  },
+  {
+    "productcode": "P8424TX",
+    "stockstatus": 40,
+    "productprice": 65
+  },
+  {
+    "productcode": "P8424TX-ROLL",
+    "stockstatus": 40,
+    "productprice": 3900
+  },
+  {
+    "productcode": "P8443TXM",
+    "stockstatus": 40,
+    "productprice": 65
+  },
+  {
+    "productcode": "P8443TXM-ROLL",
+    "stockstatus": 40,
+    "productprice": 3900
+  },
+  {
+    "productcode": "PLF9150M96",
+    "stockstatus": 40,
+    "productprice": 78
+  },
+  {
+    "productcode": "PLF9150M96-ROLL",
+    "stockstatus": 40,
+    "productprice": 4680
+  },
+  {
+    "productcode": "PLF9154M96",
+    "stockstatus": 40,
+    "productprice": 78
+  },
+  {
+    "productcode": "PLF9154M96-ROLL",
+    "stockstatus": 40,
+    "productprice": 4680
+  },
+  {
+    "productcode": "PLF9157M96",
+    "stockstatus": 40,
+    "productprice": 78
+  },
+  {
+    "productcode": "PLF9157M96-ROLL",
+    "stockstatus": 40,
+    "productprice": 4680
+  },
+  {
+    "productcode": "PLF9193M96",
+    "stockstatus": 40,
+    "productprice": 78
+  },
+  {
+    "productcode": "PLF9193M96-ROLL",
+    "stockstatus": 40,
+    "productprice": 4680
+  },
+  {
+    "productcode": "PLF9195M96",
+    "stockstatus": 40,
+    "productprice": 78
+  },
+  {
+    "productcode": "PLF9195M96-ROLL",
+    "stockstatus": 40,
+    "productprice": 4680
+  },
+  {
+    "productcode": "SLF9215D96",
+    "stockstatus": 40,
+    "productprice": 79
+  },
+  {
+    "productcode": "SLF9215D96-ROLL",
+    "stockstatus": 40,
+    "productprice": 4740
+  },
+  {
+    "productcode": "SLF9219D96",
+    "stockstatus": 40,
+    "productprice": 79
+  },
+  {
+    "productcode": "SLF9219D96-ROLL",
+    "stockstatus": 40,
+    "productprice": 4740
+  },
+  {
+    "productcode": "SLF9233D96",
+    "stockstatus": 40,
+    "productprice": 79
+  },
+  {
+    "productcode": "SLF9233D96-ROLL",
+    "stockstatus": 40,
+    "productprice": 4740
+  },
+  {
+    "productcode": "SLF9235D96",
+    "stockstatus": 40,
+    "productprice": 79
+  },
+  {
+    "productcode": "SLF9235D96-ROLL",
+    "stockstatus": 40,
+    "productprice": 4740
+  },
+  {
+    "productcode": "STF9330D72",
+    "stockstatus": 40,
+    "productprice": 59
+  },
+  {
+    "productcode": "STF9330D72-ROLL",
+    "stockstatus": 40,
+    "productprice": 3540
+  },
+  {
+    "productcode": "STF9331D72",
+    "stockstatus": 40,
+    "productprice": 59
+  },
+  {
+    "productcode": "STF9331D72-ROLL",
+    "stockstatus": 40,
+    "productprice": 3540
+  },
+  {
+    "productcode": "STF9332D72",
+    "stockstatus": 40,
+    "productprice": 59
+  },
+  {
+    "productcode": "STF9332D72-ROLL",
+    "stockstatus": 40,
+    "productprice": 3540
+  },
+  {
+    "productcode": "STF9336D72",
+    "stockstatus": 40,
+    "productprice": 59
+  },
+  {
+    "productcode": "STF9336D72-ROLL",
+    "stockstatus": 40,
+    "productprice": 3540
+  },
+  {
+    "productcode": "VGF9081D72",
+    "stockstatus": 40,
+    "productprice": "62,5"
+  },
+  {
+    "productcode": "VGF9087D72",
+    "stockstatus": 40,
+    "productprice": "62,5"
+  },
+  {
+    "productcode": "VGF9087D72-ROLL",
+    "stockstatus": 40,
+    "productprice": 3750
+  },
+  {
+    "productcode": "VGF9089D72",
+    "stockstatus": 40,
+    "productprice": "62,5"
+  },
+  {
+    "productcode": "VGF9089D72-ROLL",
+    "stockstatus": 40,
+    "productprice": 3750
+  },
+  {
+    "productcode": "VGF9097D72",
+    "stockstatus": 40,
+    "productprice": "62,5"
+  }
+]
