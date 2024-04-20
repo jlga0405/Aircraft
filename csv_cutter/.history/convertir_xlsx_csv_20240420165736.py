@@ -39,20 +39,22 @@ def convertir_xlsx_a_csv(ruta_archivo_xlsx, ruta_archivo_csv):
     # Mostrar una barra de progreso
     with tqdm(total=archivo_size, unit="B", unit_scale=True) as pbar:
         # Convertir el DataFrame a .csv
-        df_sin_duplicados.to_csv(ruta_archivo_csv, index=False, chunksize=100000, on_write=pbar.update)
+        df_sin_duplicados.to_csv(ruta_archivo_csv, index=False, chunksize=100000)
 
+# Nombre del archivo de entrada .xlsx
+archivo_in = "Libro00101.xlsx"
 
-# Obtener la ruta del archivo .py actual
-ruta_archivo_py = os.path.abspath(__file__)
+# Nombre del archivo de salida .csv
+archivo_output = "output_Libro00101.csv"
 
 # Obtener la ruta de la carpeta donde está el archivo .py
-ruta_carpeta_py = os.path.dirname(ruta_archivo_py)
+ruta_carpeta_py = os.path.dirname(os.path.abspath(__file__))
 
 # Construir la ruta del archivo .xlsx
-ruta_archivo_xlsx = os.path.join(ruta_carpeta_py, "archivo.xlsx")
+ruta_archivo_xlsx = os.path.join(ruta_carpeta_py, archivo_in)
 
 # Ruta del archivo .csv donde se guardará el resultado
-ruta_archivo_csv = os.path.join(ruta_carpeta_py, "archivo.csv")
+ruta_archivo_csv = os.path.join(ruta_carpeta_py, archivo_output)
 
 # Convertir el archivo .xlsx a .csv
 convertir_xlsx_a_csv(ruta_archivo_xlsx, ruta_archivo_csv)
