@@ -1,5 +1,0 @@
-productcode	productmanufacturer
-05-01019	
-05-01415	
-05-01976	
-06-01679	
