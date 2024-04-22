@@ -18,8 +18,8 @@ def split_json_file(file_path, chunk_size, output_base_name):
             json.dump(chunk_data, chunk_file, indent=2)
 
 if __name__ == "__main__":
-    json_file_path = "data.json"
-    output_base_name = "Lista_WENCOR_correr"  # Nombre base para los archivos de salida
+    json_file_path = "Lista a correr_SP_SS_22042024.json"
+    output_base_name = "output_Lista a correr_SP_SS_22042024"  # Nombre base para los archivos de salida
     chunk_size = int(input("Ingrese el tamaño de cada parte: "))
 
     if not os.path.exists(json_file_path):
