@@ -2,19 +2,6 @@ import os
 import pandas as pd
 from tqdm import tqdm
 
-def eliminar_duplicados(df):
-    """
-    Elimina los duplicados del DataFrame.
-
-    Args:
-        df: DataFrame de Pandas.
-
-    Returns:
-        DataFrame sin duplicados.
-    """
-    return df.drop_duplicates()
-
-
 def convertir_xlsx_a_csv(ruta_archivo_xlsx, ruta_archivo_csv):
     """
     Convierte un archivo .xlsx a .csv, mostrando una barra de progreso.
@@ -29,6 +16,9 @@ def convertir_xlsx_a_csv(ruta_archivo_xlsx, ruta_archivo_csv):
 
     # Leer el archivo .xlsx
     df = pd.read_excel(ruta_archivo_xlsx)
+
+    # Formatear los decimales de la columna "productprice"
+    df['productprice'] = df['productprice'].round(2).astype(str)
 
     # Obtener la cantidad de duplicados
     cantidad_duplicados = len(df) - len(eliminar_duplicados(df))
@@ -58,10 +48,17 @@ def convertir_xlsx_a_csv(ruta_archivo_xlsx, ruta_archivo_csv):
 
 
 # //////////Nombre del archivo de entrada .xlsx///////////
-archivo_in = "Act_StartPac_Precio_Aviavility_07052024.xlsx"
+<<<<<<< Updated upstream
+archivo_in = "Lista a correr_SP_SS_22042024.xlsx"
 
 # //////////Nombre del archivo de salida .csv//////////
-archivo_output = "Act_StartPac_Precio_Aviavility_07052024.csv"
+archivo_output = "Lista a correr_SP_SS_22042024.csv"
+=======
+archivo_in = "volutionPriceOutput-List_SP_SS_04.xlsx"
+
+# //////////Nombre del archivo de salida .csv//////////
+archivo_output = "volutionPriceOutput-List_SP_SS_04.csv"
+>>>>>>> Stashed changes
 
 # Obtener la ruta de la carpeta donde está el archivo .py
 ruta_carpeta_py = os.path.dirname(os.path.abspath(__file__))
