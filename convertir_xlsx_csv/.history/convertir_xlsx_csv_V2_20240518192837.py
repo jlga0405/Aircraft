@@ -30,6 +30,21 @@ def convertir_xlsx_a_csv(ruta_archivo_xlsx, ruta_archivo_csv):
     # Leer el archivo .xlsx
     df = pd.read_excel(ruta_archivo_xlsx)
 
+    # Obtener la cantidad de duplicados
+    cantidad_duplicados = len(df) - len(eliminar_duplicados(df))
+
+    if cantidad_duplicados > 0:
+        print(f"Se eliminaron {cantidad_duplicados} duplicados.")
+
+        # Guardar los duplicados en un archivo de texto
+        duplicados_file = os.path.join(ruta_carpeta_py, "duplicados.txt")
+        df[df.duplicated()].to_csv(duplicados_file, index=False, sep='\t')
+
+        print(f"Los duplicados se han guardado en {duplicados_file}")
+
+    else:
+        print("No se encontraron duplicados.")
+
     # Eliminar duplicados
     df_sin_duplicados = eliminar_duplicados(df)
 
@@ -41,11 +56,12 @@ def convertir_xlsx_a_csv(ruta_archivo_xlsx, ruta_archivo_csv):
         # Convertir el DataFrame a .csv
         df_sin_duplicados.to_csv(ruta_archivo_csv, index=False, chunksize=100000)
 
-# //////  Nombre del archivo de entrada .xlsx   ////// 
-archivo_in = "Libro00101.xlsx"
 
-# ////// Nombre del archivo de salida .csv    ////// 
-archivo_output = "output_Libro00101.csv"
+# //////////Nombre del archivo de entrada .xlsx///////////
+archivo_in = "volutionPriceOutput-list_Wencor_si_existVolutio_07a10_16052024.xlsx"
+
+# //////////Nombre del archivo de salida .csv//////////
+archivo_output = "volutionPriceOutput-list_Wencor_si_existVolutio_07a10_16052024.csv"
 
 # Obtener la ruta de la carpeta donde está el archivo .py
 ruta_carpeta_py = os.path.dirname(os.path.abspath(__file__))

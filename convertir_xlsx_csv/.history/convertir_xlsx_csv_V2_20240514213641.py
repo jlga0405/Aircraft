@@ -57,11 +57,11 @@ def convertir_xlsx_a_csv(ruta_archivo_xlsx, ruta_archivo_csv):
         df_sin_duplicados.to_csv(ruta_archivo_csv, index=False, chunksize=100000)
 
 
-# Nombre del archivo de entrada .xlsx
-archivo_in = "Libro00101.xlsx"
+# //////////Nombre del archivo de entrada .xlsx///////////
+archivo_in = "volutionPriceOutput-Wencor01.xlsx"
 
-# Nombre del archivo de salida .csv
-archivo_output = "output_Libro00101.csv"
+# //////////Nombre del archivo de salida .csv//////////
+archivo_output = "volutionPriceOutput-Wencor01.csv"
 
 # Obtener la ruta de la carpeta donde está el archivo .py
 ruta_carpeta_py = os.path.dirname(os.path.abspath(__file__))

@@ -58,10 +58,10 @@ def convertir_xlsx_a_csv(ruta_archivo_xlsx, ruta_archivo_csv):
 
 
 # //////////Nombre del archivo de entrada .xlsx///////////
-archivo_in = "volutionPriceOutput-List_CP04_17052024.xlsx"
+archivo_in = "volutionPriceOutput-Lista_SP_SS_12.xlsx"
 
 # //////////Nombre del archivo de salida .csv//////////
-archivo_output = "volutionPriceOutput-List_CP04_17052024.csv"
+archivo_output = "volutionPriceOutput-Lista_SP_SS_12.csv"
 
 # Obtener la ruta de la carpeta donde está el archivo .py
 ruta_carpeta_py = os.path.dirname(os.path.abspath(__file__))
