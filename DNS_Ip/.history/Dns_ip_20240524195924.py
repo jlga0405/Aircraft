@@ -26,7 +26,7 @@ def obtener_ips(dominio):
     try:
         # Obtener registros A (IPv4)
         try:
-            respuestas = resolver.resolve(dominio, 'A')
+            respuestas = resolver.query(dominio, 'A')
             for rdata in respuestas:
                 ips.add(rdata.to_text())
         except (dns.resolver.NoAnswer, dns.resolver.NXDOMAIN, dns.exception.Timeout) as e:
@@ -34,7 +34,7 @@ def obtener_ips(dominio):
 
         # Obtener registros AAAA (IPv6)
         try:
-            respuestas = resolver.resolve(dominio, 'AAAA')
+            respuestas = resolver.query(dominio, 'AAAA')
             for rdata in respuestas:
                 ips.add(rdata.to_text())
         except (dns.resolver.NoAnswer, dns.resolver.NXDOMAIN, dns.exception.Timeout) as e:
@@ -42,7 +42,7 @@ def obtener_ips(dominio):
 
         # Obtener registros CNAME (nombre canónico)
         try:
-            respuestas = resolver.resolve(dominio, 'CNAME')
+            respuestas = resolver.query(dominio, 'CNAME')
             for rdata in respuestas:
                 cname = rdata.to_text()
                 ips.update(obtener_ips(cname))
