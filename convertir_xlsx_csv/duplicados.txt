@@ -1,0 +1,5 @@
+productcode	productprice	addtocartbtn_replacement_text	stockstatus	availability	FreeShippingItem	minqty	CustomField2
+AS3209-243	3.6	Please send RFQ to sales@145.aero for lead time	0	Usually Ships in 3 to 5 Business Days	N		
+AS3209-251	4.82		44	Usually Ships in 3 to 5 Business Days	N		
+AS3209-266	7.65	Please send RFQ to sales@145.aero for lead time	0	Usually Ships in 3 to 5 Business Days	N		
+AS3582-125	1.29		403	Usually Ships in 3 to 5 Business Days	N		
