@@ -16,7 +16,7 @@ if __name__ == "__main__":
     # Nombre del archivo CSV de entrada
     csv_file = "volutionPriceOutput-LISTA_GRAL_AVIALL_10062024.csv"
     # Nombre del archivo XLSX de salida
-    xlsx_file = "volutionPriceOutput-LISTA_GRAL_AVIALL_10062024.xlsx"
+    xlsx_file = "volutionPriceOutput-LISTA_GRAL_AVIALL_100620241.xlsx"
     
     # Llama a la función para convertir CSV a XLSX
     csv_to_xlsx(csv_file, xlsx_file)

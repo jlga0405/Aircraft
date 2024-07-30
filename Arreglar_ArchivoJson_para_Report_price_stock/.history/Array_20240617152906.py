@@ -1,7 +1,7 @@
 import json
 
-input_file_path = './Lista_Elba_06052024.json'
-output_file_path = './src/JSON2Array/result.txt'
+input_file_path = './Lista_partNumber_INV_14062024_01.json'
+output_file_path = './Lista_partNumber_INV_14062024_01.txt'
 
 # Leer el archivo JSON
 with open(input_file_path, 'r') as f:

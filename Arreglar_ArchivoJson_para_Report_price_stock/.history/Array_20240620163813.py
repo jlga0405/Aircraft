@@ -1,7 +1,7 @@
 import json
 
-input_file_path = './quimicos_consumibles_lubricantes_completo_actual_areglada_17052024.json'
-output_file_path = './reporte_price_stock_quimicos_consumibles_lubricantes_completo_actual_areglada_17052024.txt'
+input_file_path = './Inventario_Ferreteria_hacer_comparativo.json'
+output_file_path = './Inventario_Ferreteria_hacer_comparativo.txt'
 
 # Leer el archivo JSON
 with open(input_file_path, 'r') as f:

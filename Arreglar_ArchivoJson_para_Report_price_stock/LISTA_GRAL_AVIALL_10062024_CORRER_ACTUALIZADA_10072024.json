@@ -1,15 +1,27 @@
 [
   {
-    "partNumber": "329"
+    "partNumber": 329
   },
   {
-    "partNumber": "1151"
+    "partNumber": 1151
   },
   {
     "partNumber": "002055"
   },
   {
     "partNumber": "002056"
+  },
+  {
+    "partNumber": "C-111PT"
+  },
+  {
+    "partNumber": "PR3500-5GL"
+  },
+  {
+    "partNumber": "PR3500GL"
+  },
+  {
+    "partNumber": "PR3500-55GL"
   },
   {
     "partNumber": "002057"
@@ -39,7 +51,7 @@
     "partNumber": "002318"
   },
   {
-    "partNumber": "2612"
+    "partNumber": 2612
   },
   {
     "partNumber": "007070"
@@ -48,7 +60,7 @@
     "partNumber": "007071"
   },
   {
-    "partNumber": "8431"
+    "partNumber": 8431
   },
   {
     "partNumber": "008431"
@@ -63,325 +75,325 @@
     "partNumber": "009660"
   },
   {
-    "partNumber": "10025"
+    "partNumber": 10025
   },
   {
-    "partNumber": "10032"
+    "partNumber": 10032
   },
   {
-    "partNumber": "10114"
+    "partNumber": 10114
   },
   {
-    "partNumber": "10205"
+    "partNumber": 10205
   },
   {
-    "partNumber": "10610"
+    "partNumber": 10610
   },
   {
-    "partNumber": "14143"
+    "partNumber": 14143
   },
   {
-    "partNumber": "16511"
+    "partNumber": 16511
   },
   {
-    "partNumber": "16516"
+    "partNumber": 16516
   },
   {
-    "partNumber": "16630"
+    "partNumber": 16630
   },
   {
-    "partNumber": "16651"
+    "partNumber": 16651
   },
   {
-    "partNumber": "20009"
+    "partNumber": 20009
   },
   {
-    "partNumber": "21434"
+    "partNumber": 21434
   },
   {
-    "partNumber": "21453"
+    "partNumber": 21453
   },
   {
-    "partNumber": "21463"
+    "partNumber": 21463
   },
   {
-    "partNumber": "21464"
+    "partNumber": 21464
   },
   {
-    "partNumber": "27105"
+    "partNumber": 27105
   },
   {
-    "partNumber": "30558"
+    "partNumber": 30558
   },
   {
-    "partNumber": "34026"
+    "partNumber": 34026
   },
   {
-    "partNumber": "37127"
+    "partNumber": 37127
   },
   {
-    "partNumber": "37229"
+    "partNumber": 37229
   },
   {
-    "partNumber": "37230"
+    "partNumber": 37230
   },
   {
-    "partNumber": "37685"
+    "partNumber": 37685
   },
   {
-    "partNumber": "39893"
+    "partNumber": 39893
   },
   {
-    "partNumber": "39901"
+    "partNumber": 39901
   },
   {
-    "partNumber": "50000"
+    "partNumber": 50000
   },
   {
-    "partNumber": "50003"
+    "partNumber": 50003
   },
   {
-    "partNumber": "51001"
+    "partNumber": 51001
   },
   {
-    "partNumber": "51002"
+    "partNumber": 51002
   },
   {
-    "partNumber": "51005"
+    "partNumber": 51005
   },
   {
-    "partNumber": "51006"
+    "partNumber": 51006
   },
   {
-    "partNumber": "51007"
+    "partNumber": 51007
   },
   {
-    "partNumber": "51008"
+    "partNumber": 51008
   },
   {
-    "partNumber": "51084"
+    "partNumber": 51084
   },
   {
-    "partNumber": "51102"
+    "partNumber": 51102
   },
   {
-    "partNumber": "51144"
+    "partNumber": 51144
   },
   {
-    "partNumber": "51147"
+    "partNumber": 51147
   },
   {
-    "partNumber": "51246"
+    "partNumber": 51246
   },
   {
-    "partNumber": "51531"
+    "partNumber": 51531
   },
   {
-    "partNumber": "51572"
+    "partNumber": 51572
   },
   {
-    "partNumber": "51580"
+    "partNumber": 51580
   },
   {
-    "partNumber": "51605"
+    "partNumber": 51605
   },
   {
-    "partNumber": "51606"
+    "partNumber": 51606
   },
   {
-    "partNumber": "51609"
+    "partNumber": 51609
   },
   {
-    "partNumber": "55441"
+    "partNumber": 55441
   },
   {
-    "partNumber": "56931"
+    "partNumber": 56931
   },
   {
-    "partNumber": "59231"
+    "partNumber": 59231
   },
   {
-    "partNumber": "61002"
+    "partNumber": 61002
   },
   {
-    "partNumber": "62015"
+    "partNumber": 62015
   },
   {
-    "partNumber": "62040"
+    "partNumber": 62040
   },
   {
-    "partNumber": "64031"
+    "partNumber": 64031
   },
   {
-    "partNumber": "70214"
+    "partNumber": 70214
   },
   {
-    "partNumber": "70814"
+    "partNumber": 70814
   },
   {
-    "partNumber": "76732"
+    "partNumber": 76732
   },
   {
-    "partNumber": "76759"
+    "partNumber": 76759
   },
   {
-    "partNumber": "76764"
+    "partNumber": 76764
   },
   {
-    "partNumber": "77124"
+    "partNumber": 77124
   },
   {
-    "partNumber": "77164"
+    "partNumber": 77164
   },
   {
-    "partNumber": "80209"
+    "partNumber": 80209
   },
   {
-    "partNumber": "84004"
+    "partNumber": 84004
   },
   {
-    "partNumber": "84005"
+    "partNumber": 84005
   },
   {
-    "partNumber": "100188"
+    "partNumber": 100188
   },
   {
-    "partNumber": "100190"
+    "partNumber": 100190
   },
   {
-    "partNumber": "100437"
+    "partNumber": 100437
   },
   {
-    "partNumber": "100438"
+    "partNumber": 100438
   },
   {
-    "partNumber": "101301"
+    "partNumber": 101301
   },
   {
-    "partNumber": "195899"
+    "partNumber": 195899
   },
   {
-    "partNumber": "220538"
+    "partNumber": 220538
   },
   {
-    "partNumber": "220540"
+    "partNumber": 220540
   },
   {
-    "partNumber": "220544"
+    "partNumber": 220544
   },
   {
-    "partNumber": "220550"
+    "partNumber": 220550
   },
   {
-    "partNumber": "490040"
+    "partNumber": 490040
   },
   {
-    "partNumber": "490057"
+    "partNumber": 490057
   },
   {
-    "partNumber": "490194"
+    "partNumber": 490194
   },
   {
-    "partNumber": "1045377"
+    "partNumber": 1045377
   },
   {
-    "partNumber": "1045425"
+    "partNumber": 1045425
   },
   {
-    "partNumber": "1045441"
+    "partNumber": 1045441
   },
   {
-    "partNumber": "1045446"
+    "partNumber": 1045446
   },
   {
-    "partNumber": "1045457"
+    "partNumber": 1045457
   },
   {
-    "partNumber": "1045468"
+    "partNumber": 1045468
   },
   {
-    "partNumber": "1045479"
+    "partNumber": 1045479
   },
   {
-    "partNumber": "1045484"
+    "partNumber": 1045484
   },
   {
-    "partNumber": "1045500"
+    "partNumber": 1045500
   },
   {
-    "partNumber": "1045511"
+    "partNumber": 1045511
   },
   {
-    "partNumber": "1045536"
+    "partNumber": 1045536
   },
   {
-    "partNumber": "1045538"
+    "partNumber": 1045538
   },
   {
-    "partNumber": "1045559"
+    "partNumber": 1045559
   },
   {
-    "partNumber": "1045575"
+    "partNumber": 1045575
   },
   {
-    "partNumber": "1045910"
+    "partNumber": 1045910
   },
   {
-    "partNumber": "1059152"
+    "partNumber": 1059152
   },
   {
-    "partNumber": "1059154"
+    "partNumber": 1059154
   },
   {
-    "partNumber": "1083555"
+    "partNumber": 1083555
   },
   {
-    "partNumber": "1083556"
+    "partNumber": 1083556
   },
   {
-    "partNumber": "1167237"
+    "partNumber": 1167237
   },
   {
-    "partNumber": "1329467"
+    "partNumber": 1329467
   },
   {
-    "partNumber": "1329837"
+    "partNumber": 1329837
   },
   {
-    "partNumber": "1330583"
+    "partNumber": 1330583
   },
   {
-    "partNumber": "1432371"
+    "partNumber": 1432371
   },
   {
-    "partNumber": "1597418"
+    "partNumber": 1597418
   },
   {
-    "partNumber": "1786073"
+    "partNumber": 1786073
   },
   {
-    "partNumber": "1999141"
+    "partNumber": 1999141
   },
   {
-    "partNumber": "1999559"
+    "partNumber": 1999559
   },
   {
-    "partNumber": "1999560"
+    "partNumber": 1999560
   },
   {
-    "partNumber": "4016056"
+    "partNumber": 4016056
   },
   {
-    "partNumber": "4045284"
+    "partNumber": 4045284
   },
   {
-    "partNumber": "4110894"
+    "partNumber": 4110894
   },
   {
-    "partNumber": "804136730"
+    "partNumber": 804136730
   },
   {
-    "partNumber": "804137330"
+    "partNumber": 804137330
   },
   {
     "partNumber": "0LUBE884-2"
@@ -394,6 +406,9 @@
   },
   {
     "partNumber": "10P4-2QTKT"
+  },
+  {
+    "partNumber": "10W40LT"
   },
   {
     "partNumber": "1151T"
@@ -1032,6 +1047,9 @@
     "partNumber": "EDMP"
   },
   {
+    "partNumber": "ELITE20W50QT"
+  },
+  {
     "partNumber": "ESNALUBE382PT"
   },
   {
@@ -1503,7 +1521,22 @@
     "partNumber": "PR1428B2"
   },
   {
+    "partNumber": "PR1428B2PT"
+  },
+  {
+    "partNumber": "PR1428B2PTKT"
+  },
+  {
     "partNumber": "PR1436GPT"
+  },
+  {
+    "partNumber": "PR1440-A1-2-60Z"
+  },
+  {
+    "partNumber": "PR1440A1-2PTKT"
+  },
+  {
+    "partNumber": "PR1440A2-654"
   },
   {
     "partNumber": "PR1440A2PT"
@@ -1515,10 +1548,19 @@
     "partNumber": "PR1440B2"
   },
   {
+    "partNumber": "PR1440B2PT"
+  },
+  {
     "partNumber": "PR1750A1-2"
   },
   {
+    "partNumber": "PR1750A1-2PT"
+  },
+  {
     "partNumber": "PR1750A2"
+  },
+  {
+    "partNumber": "PR1750A2PT"
   },
   {
     "partNumber": "PR1750B1-2-60Z"
@@ -1528,6 +1570,9 @@
   },
   {
     "partNumber": "PR1750B2-60Z"
+  },
+  {
+    "partNumber": "PR1750B2PTKT"
   },
   {
     "partNumber": "PR1764B2"
@@ -1542,7 +1587,13 @@
     "partNumber": "PR1773B1-2"
   },
   {
+    "partNumber": "PR1773B1-2PT"
+  },
+  {
     "partNumber": "PR1773B2-60Z"
+  },
+  {
+    "partNumber": "PR1775B2-1QT"
   },
   {
     "partNumber": "PR1775B2-60Z"
@@ -1561,6 +1612,9 @@
   },
   {
     "partNumber": "PR1776MB2BPT"
+  },
+  {
+    "partNumber": "PR1776MB2PT"
   },
   {
     "partNumber": "PR1826A1-2"
@@ -1605,6 +1659,12 @@
     "partNumber": "PS870A1-2"
   },
   {
+    "partNumber": "PS870A1-2PTKT"
+  },
+  {
+    "partNumber": "PS870A2-PT"
+  },
+  {
     "partNumber": "PS870B1-2"
   },
   {
@@ -1615,6 +1675,9 @@
   },
   {
     "partNumber": "PS870B1-2PTM"
+  },
+  {
+    "partNumber": "PS870B1-2QT"
   },
   {
     "partNumber": "PS870B2-60Z"
@@ -1695,7 +1758,7 @@
     "partNumber": "RTV732-10-10ZWH"
   },
   {
-    "partNumber": "RTV73230Z"
+    "partNumber": "RTV732-30Z"
   },
   {
     "partNumber": "RTV732-30ZALU"
@@ -1762,6 +1825,9 @@
   },
   {
     "partNumber": "T8EPASTE"
+  },
+  {
+    "partNumber": "TECTYL502CQT"
   },
   {
     "partNumber": "TELLUS22-5GL"
@@ -1848,45 +1914,18 @@
     "partNumber": "XHTBDX20Z"
   },
   {
-    "partNumber": "ELITE20W50QT"
+    "partNumber": "PR1440B1-2"
   },
   {
-    "partNumber": "TECTYL502C-QT"
+    "partNumber": "PR1440B2QT"
   },
   {
-    "partNumber": "PR1428B2PT"
+    "partNumber": "PS870A2-6OZ"
   },
   {
-    "partNumber": "PR1428B2PTKT"
+    "partNumber": "PS870B1-2-PT"
   },
   {
-    "partNumber": "PR1440-A1-2-60Z"
-  },
-  {
-    "partNumber": "PR1440A1-2PTKT"
-  },
-  {
-    "partNumber": "PR1440A2-654"
-  },
-  {
-    "partNumber": "PR1440B2PT"
-  },
-  {
-    "partNumber": "PR1750A1-2PT"
-  },
-  {
-    "partNumber": "PR1750A2PT"
-  },
-  {
-    "partNumber": "PR1750B2PTKT"
-  },
-  {
-    "partNumber": "PR1773B1-2PT"
-  },
-  {
-    "partNumber": "PR1775B2-1QT"
-  },
-  {
-    "partNumber": "PR1776MB2PT"
+    "partNumber": "PS870B2PT"
   }
 ]
