@@ -2,7 +2,7 @@ const esprima = require('esprima');
 const fs = require('fs');
 
 // Define el nombre del archivo de scraping
-const vendor_scrap = 'aviallaltuser_bulkSlimQueries.js';  // Reemplaza con el nombre del archivo de scraping que desees analizar
+const vendor_scrap = 'https://shop.boeing.com/aviation-supply/';  // Reemplaza con el nombre del archivo de scraping que desees analizar
 
 // Lee el script de scraping en JavaScript
 const script = fs.readFileSync(vendor_scrap, 'utf8');
