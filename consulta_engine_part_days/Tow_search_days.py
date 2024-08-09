@@ -8,6 +8,15 @@ output_part_not = 'output_parts_notUpdate_aviall.json'  # Nombre del archivo par
 days_recent_update = 90  # Cantidad de días para partes actualizadas recientemente
 days_without_changes = 200  # Cantidad de días sin cambios
 
+# Función para convertir fechas y timestamps
+def parse_date(date_str):
+    try:
+        # Intenta convertir la fecha en formato ISO 8601
+        return datetime.strptime(date_str, '%Y-%m-%dT%H:%M:%S.%fZ')
+    except ValueError:
+        # Si falla, intenta convertirla como timestamp en milisegundos
+        return datetime.utcfromtimestamp(int(date_str) / 1000.0)
+
 # Cargar el archivo JSON con codificación UTF-8
 with open(engine_part, 'r', encoding='utf-8') as file:
     parts = json.load(file)
@@ -25,48 +34,60 @@ for part in parts:
     updated_at_str = part['updatedAt']['$date']
     
     # Convertir la cadena de fecha a un objeto datetime
-    updated_at = datetime.strptime(updated_at_str, '%Y-%m-%dT%H:%M:%S.%fZ')
+    updated_at = parse_date(updated_at_str)
     
     # Verificar si la parte fue actualizada en los últimos X días
     if updated_at >= days_ago_recent_update:
         # Encontrar el precio más reciente en quotes
         if part['quotes']:
-            # Convertir el campo createdAt a int para comparar timestamps
-            recent_price = max(part['quotes'], key=lambda x: int(x['createdAt']))['price']
+            try:
+                # Asegurarse de que 'createdAt' y 'price' existan
+                recent_price = max(part['quotes'], key=lambda x: parse_date(x['createdAt']))['price']
+            except KeyError:
+                recent_price = None
         else:
             recent_price = None
 
-        # Encontrar el stock en la primera ubicación (esto asume que el stock es el mismo en todas las ubicaciones)
-        stock = part['location'][0]['stock'] if part['location'] else None
-        
+        # Encontrar el stock en la primera ubicación, verificando si 'location' y 'stock' existen
+        stock = None
+        if part.get('location'):
+            location = part['location'][0]
+            stock = location.get('stock')
+
         # Agregar el resultado con los campos deseados
         recent_updates.append({
             'partNumberUnpunctuated': part.get('partNumberUnpunctuated'),
             'price': recent_price,
             'stock': stock,
             'updatedAt': updated_at_str,
-            'imgUrl': part.get('imgUrl')  # Agregar imgUrl
+            'url': part.get('url')  # Agregar url
         })
     
     # Verificar si la parte no ha sido actualizada en los últimos X días
     if updated_at < threshold_date_no_update:
         # Encontrar el precio más reciente en quotes
         if part['quotes']:
-            # Convertir el campo createdAt a int para comparar timestamps
-            recent_price = max(part['quotes'], key=lambda x: int(x['createdAt']))['price']
+            try:
+                # Asegurarse de que 'createdAt' y 'price' existan
+                recent_price = max(part['quotes'], key=lambda x: parse_date(x['createdAt']))['price']
+            except KeyError:
+                recent_price = None
         else:
             recent_price = None
 
-        # Encontrar el stock en la primera ubicación (esto asume que el stock es el mismo en todas las ubicaciones)
-        stock = part['location'][0]['stock'] if part['location'] else None
-        
+        # Encontrar el stock en la primera ubicación, verificando si 'location' y 'stock' existen
+        stock = None
+        if part.get('location'):
+            location = part['location'][0]
+            stock = location.get('stock')
+
         # Agregar el resultado con los campos deseados
         no_updates.append({
             'partNumberUnpunctuated': part.get('partNumberUnpunctuated'),
             'price': recent_price,
             'stock': stock,
             'updatedAt': updated_at_str,
-            'imgUrl': part.get('imgUrl')  # Agregar imgUrl
+            'url': part.get('url')  # Agregar url
         })
 
 # Mostrar resultados
