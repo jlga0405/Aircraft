@@ -6,7 +6,7 @@ with open('modific.txt', 'r') as infile:
 items = [item.strip() for item in content.split(',')]
 
 # Define la cantidad máxima de elementos por línea (por ejemplo, 15)
-max_elements_per_line = 2050
+max_elements_per_line = 1700
 
 # Combina los elementos en líneas según el valor máximo
 lines = [', '.join(items[i:i + max_elements_per_line]) for i in range(0, len(items), max_elements_per_line)]

@@ -14,9 +14,9 @@ def csv_to_xlsx(csv_file, xlsx_file):
 
 if __name__ == "__main__":
     # Nombre del archivo CSV de entrada
-    csv_file = "volutionPriceOutput-Lista_Aviall_Actualizada_28052024_01.csv"
+    csv_file = "Lista_CP_1878_01082024_01_01082024.csv"
     # Nombre del archivo XLSX de salida
-    xlsx_file = "volutionPriceOutput-Lista_Aviall_Actualizada_28052024_01.xlsx"
+    xlsx_file = "Lista_CP_1878_01082024_01_01082024.xlsx"
     
     # Llama a la función para convertir CSV a XLSX
     csv_to_xlsx(csv_file, xlsx_file)
