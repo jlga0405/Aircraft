@@ -5,7 +5,7 @@ import pandas as pd
 valor = 0.65
 file = 'productos.json'  # Nombre del archivo JSON de entrada
 outputfile = 'priceventa.xlsx'  # Nombre del archivo XLSX de salida
-multiply = False  # Si es True, multiplica; si es False, divide
+multiply = True  # Si es True, multiplica; si es False, divide
 
 # Cargar el archivo JSON
 with open(file, 'r') as f:
