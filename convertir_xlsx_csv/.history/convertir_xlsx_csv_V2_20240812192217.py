@@ -30,9 +30,6 @@ def convertir_xlsx_a_csv(ruta_archivo_xlsx, ruta_archivo_csv):
     # Leer el archivo .xlsx
     df = pd.read_excel(ruta_archivo_xlsx)
 
-    # Formatear los decimales de la columna "productprice"
-    df['productprice'] = df['productprice'].round(2).astype(str)
-
     # Obtener la cantidad de duplicados
     cantidad_duplicados = len(df) - len(eliminar_duplicados(df))
 

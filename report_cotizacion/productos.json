@@ -1,0 +1,3057 @@
+[
+  {
+    "productcode": 329,
+    "productprice": 0,
+    "stock": 0
+  },
+  {
+    "productcode": 1151,
+    "productprice": 27.89,
+    "stock": 1472
+  },
+  {
+    "productcode": 2612,
+    "productprice": 15.58,
+    "stock": 0
+  },
+  {
+    "productcode": 10025,
+    "productprice": 36.66,
+    "stock": 4
+  },
+  {
+    "productcode": 10032,
+    "productprice": 93.25,
+    "stock": 0
+  },
+  {
+    "productcode": 10114,
+    "productprice": 2068.81,
+    "stock": 0
+  },
+  {
+    "productcode": 10205,
+    "productprice": 3536.13,
+    "stock": 0
+  },
+  {
+    "productcode": 10610,
+    "productprice": 158.98,
+    "stock": 54
+  },
+  {
+    "productcode": 14143,
+    "productprice": 156.66,
+    "stock": 20
+  },
+  {
+    "productcode": 16511,
+    "productprice": 77.69,
+    "stock": 85
+  },
+  {
+    "productcode": 16516,
+    "productprice": 465.01,
+    "stock": 90
+  },
+  {
+    "productcode": 16630,
+    "productprice": 83.84,
+    "stock": 1
+  },
+  {
+    "productcode": 16651,
+    "productprice": 24.13,
+    "stock": 103
+  },
+  {
+    "productcode": 20009,
+    "productprice": 10.01,
+    "stock": 12
+  },
+  {
+    "productcode": 21434,
+    "productprice": 19.74,
+    "stock": 32
+  },
+  {
+    "productcode": 21453,
+    "productprice": 52.14,
+    "stock": 0
+  },
+  {
+    "productcode": 21463,
+    "productprice": 17.01,
+    "stock": 814
+  },
+  {
+    "productcode": 21464,
+    "productprice": 48.88,
+    "stock": 0
+  },
+  {
+    "productcode": 27105,
+    "productprice": 3.17,
+    "stock": 172
+  },
+  {
+    "productcode": 30558,
+    "productprice": 20.84,
+    "stock": 82
+  },
+  {
+    "productcode": 34026,
+    "productprice": 42.69,
+    "stock": 0
+  },
+  {
+    "productcode": 37127,
+    "productprice": 19.19,
+    "stock": 6
+  },
+  {
+    "productcode": 37229,
+    "productprice": 9.32,
+    "stock": 55
+  },
+  {
+    "productcode": 37230,
+    "productprice": 8.64,
+    "stock": 22
+  },
+  {
+    "productcode": 37685,
+    "productprice": 18.76,
+    "stock": 0
+  },
+  {
+    "productcode": 39893,
+    "productprice": 95.97,
+    "stock": 71
+  },
+  {
+    "productcode": 39901,
+    "productprice": 83.98,
+    "stock": 34
+  },
+  {
+    "productcode": 50000,
+    "productprice": 0,
+    "stock": 0
+  },
+  {
+    "productcode": 50003,
+    "productprice": 0,
+    "stock": 0
+  },
+  {
+    "productcode": 51001,
+    "productprice": 9.41,
+    "stock": 280
+  },
+  {
+    "productcode": 51002,
+    "productprice": 14.3,
+    "stock": 441
+  },
+  {
+    "productcode": 51005,
+    "productprice": 26.97,
+    "stock": 54
+  },
+  {
+    "productcode": 51007,
+    "productprice": 31.4,
+    "stock": 259
+  },
+  {
+    "productcode": 51008,
+    "productprice": 72.5,
+    "stock": 63
+  },
+  {
+    "productcode": 51084,
+    "productprice": 51.44,
+    "stock": 47
+  },
+  {
+    "productcode": 51102,
+    "productprice": 51.19,
+    "stock": 34
+  },
+  {
+    "productcode": 51144,
+    "productprice": 13.05,
+    "stock": 108
+  },
+  {
+    "productcode": 51147,
+    "productprice": 20.02,
+    "stock": 134
+  },
+  {
+    "productcode": 51246,
+    "productprice": 209.24,
+    "stock": 0
+  },
+  {
+    "productcode": 51531,
+    "productprice": 22.09,
+    "stock": 432
+  },
+  {
+    "productcode": 51572,
+    "productprice": 131.66,
+    "stock": 14
+  },
+  {
+    "productcode": 51580,
+    "productprice": 91.85,
+    "stock": 30
+  },
+  {
+    "productcode": 51605,
+    "productprice": 41.74,
+    "stock": 0
+  },
+  {
+    "productcode": 51606,
+    "productprice": 62.66,
+    "stock": 30
+  },
+  {
+    "productcode": 51609,
+    "productprice": 12.49,
+    "stock": 218
+  },
+  {
+    "productcode": 55441,
+    "productprice": 204.56,
+    "stock": 20
+  },
+  {
+    "productcode": 56931,
+    "productprice": 49.01,
+    "stock": 187
+  },
+  {
+    "productcode": 59231,
+    "productprice": 21.06,
+    "stock": 140
+  },
+  {
+    "productcode": 61002,
+    "productprice": 25.55,
+    "stock": 36
+  },
+  {
+    "productcode": 62015,
+    "productprice": 21.35,
+    "stock": 41
+  },
+  {
+    "productcode": 62040,
+    "productprice": 54.64,
+    "stock": 67
+  },
+  {
+    "productcode": 64031,
+    "productprice": 57.33,
+    "stock": 110
+  },
+  {
+    "productcode": 70214,
+    "productprice": 22.27,
+    "stock": 0
+  },
+  {
+    "productcode": 70814,
+    "productprice": 20.23,
+    "stock": 0
+  },
+  {
+    "productcode": 76732,
+    "productprice": 21.4,
+    "stock": 100
+  },
+  {
+    "productcode": 76759,
+    "productprice": 21.3,
+    "stock": 0
+  },
+  {
+    "productcode": 76764,
+    "productprice": 30.53,
+    "stock": 0
+  },
+  {
+    "productcode": 77124,
+    "productprice": 31.88,
+    "stock": 105
+  },
+  {
+    "productcode": 77164,
+    "productprice": 52.77,
+    "stock": 225
+  },
+  {
+    "productcode": 80209,
+    "productprice": 13.03,
+    "stock": 85
+  },
+  {
+    "productcode": 84004,
+    "productprice": 125.09,
+    "stock": 29
+  },
+  {
+    "productcode": 84005,
+    "productprice": 527.59,
+    "stock": 3
+  },
+  {
+    "productcode": 100188,
+    "productprice": 426.71,
+    "stock": 0
+  },
+  {
+    "productcode": 100190,
+    "productprice": 1735.94,
+    "stock": 0
+  },
+  {
+    "productcode": 100437,
+    "productprice": 341.06,
+    "stock": 0
+  },
+  {
+    "productcode": 100438,
+    "productprice": 1593.24,
+    "stock": 0
+  },
+  {
+    "productcode": 101301,
+    "productprice": 399.3,
+    "stock": 62
+  },
+  {
+    "productcode": 195899,
+    "productprice": 80.09,
+    "stock": 7
+  },
+  {
+    "productcode": 220538,
+    "productprice": 2.86,
+    "stock": 465
+  },
+  {
+    "productcode": 220540,
+    "productprice": 1.47,
+    "stock": 654
+  },
+  {
+    "productcode": 220544,
+    "productprice": 1.47,
+    "stock": 18710
+  },
+  {
+    "productcode": 220550,
+    "productprice": 1.41,
+    "stock": 13339
+  },
+  {
+    "productcode": 490040,
+    "productprice": 10.4,
+    "stock": 0
+  },
+  {
+    "productcode": 490057,
+    "productprice": 11.03,
+    "stock": 1412
+  },
+  {
+    "productcode": 490194,
+    "productprice": 16.56,
+    "stock": 0
+  },
+  {
+    "productcode": 1329467,
+    "productprice": 48.44,
+    "stock": 192
+  },
+  {
+    "productcode": 1329837,
+    "productprice": 17.41,
+    "stock": 1000
+  },
+  {
+    "productcode": 1330583,
+    "productprice": 17.59,
+    "stock": 214
+  },
+  {
+    "productcode": 1432371,
+    "productprice": 0,
+    "stock": 0
+  },
+  {
+    "productcode": 1597418,
+    "productprice": 33.56,
+    "stock": 192
+  },
+  {
+    "productcode": 1786073,
+    "productprice": 27.66,
+    "stock": 31
+  },
+  {
+    "productcode": 1999141,
+    "productprice": 32.92,
+    "stock": 0
+  },
+  {
+    "productcode": 1999559,
+    "productprice": 31.11,
+    "stock": 0
+  },
+  {
+    "productcode": 1999560,
+    "productprice": 54.2,
+    "stock": 0
+  },
+  {
+    "productcode": 4016056,
+    "productprice": 40.06,
+    "stock": 0
+  },
+  {
+    "productcode": 4045284,
+    "productprice": 141.75,
+    "stock": 0
+  },
+  {
+    "productcode": 4110894,
+    "productprice": 36.67,
+    "stock": 43
+  },
+  {
+    "productcode": "70090-04",
+    "productprice": 222.75,
+    "stock": 0
+  },
+  {
+    "productcode": "70104-04",
+    "productprice": 222.01,
+    "stock": 40
+  },
+  {
+    "productcode": "70104-05",
+    "productprice": 1121.13,
+    "stock": 0
+  },
+  {
+    "productcode": "70104-09",
+    "productprice": 11061.44,
+    "stock": 0
+  },
+  {
+    "productcode": "70105-04",
+    "productprice": 104.88,
+    "stock": 0
+  },
+  {
+    "productcode": "70200-13",
+    "productprice": 5.79,
+    "stock": 544
+  },
+  {
+    "productcode": "70201-13",
+    "productprice": 5.69,
+    "stock": 467
+  },
+  {
+    "productcode": "70206-18",
+    "productprice": 7.39,
+    "stock": 0
+  },
+  {
+    "productcode": "70302-12",
+    "productprice": 29.14,
+    "stock": 51
+  },
+  {
+    "productcode": "70305-02",
+    "productprice": 9.18,
+    "stock": 0
+  },
+  {
+    "productcode": "70305-12",
+    "productprice": 29.14,
+    "stock": 234
+  },
+  {
+    "productcode": "70307-12",
+    "productprice": 29.14,
+    "stock": 0
+  },
+  {
+    "productcode": 804136730,
+    "productprice": 12.85,
+    "stock": 0
+  },
+  {
+    "productcode": 804137330,
+    "productprice": 12.31,
+    "stock": 127
+  },
+  {
+    "productcode": "002055",
+    "productprice": 30.41,
+    "stock": 224
+  },
+  {
+    "productcode": "002056",
+    "productprice": 30.41,
+    "stock": 283
+  },
+  {
+    "productcode": "002057",
+    "productprice": 25.34,
+    "stock": 382
+  },
+  {
+    "productcode": "002060",
+    "productprice": 30.41,
+    "stock": 120
+  },
+  {
+    "productcode": "002061",
+    "productprice": 30.75,
+    "stock": 188
+  },
+  {
+    "productcode": "002062",
+    "productprice": 30.41,
+    "stock": 17
+  },
+  {
+    "productcode": "002078",
+    "productprice": 55.61,
+    "stock": 36
+  },
+  {
+    "productcode": "002081",
+    "productprice": 35.38,
+    "stock": 319
+  },
+  {
+    "productcode": "002082",
+    "productprice": 24.46,
+    "stock": 12
+  },
+  {
+    "productcode": "002138",
+    "productprice": 886.25,
+    "stock": 0
+  },
+  {
+    "productcode": "002318",
+    "productprice": 660.69,
+    "stock": 0
+  },
+  {
+    "productcode": "007070",
+    "productprice": 355.49,
+    "stock": 0
+  },
+  {
+    "productcode": "007071",
+    "productprice": 1537.47,
+    "stock": 0
+  },
+  {
+    "productcode": "008431",
+    "productprice": 32.74,
+    "stock": 121
+  },
+  {
+    "productcode": "009425",
+    "productprice": 209.1,
+    "stock": 0
+  },
+  {
+    "productcode": "009426",
+    "productprice": 171.77,
+    "stock": 0
+  },
+  {
+    "productcode": "009660",
+    "productprice": 103.71,
+    "stock": 0
+  },
+  {
+    "productcode": "C-111PT",
+    "productprice": 231.1,
+    "stock": 55
+  },
+  {
+    "productcode": "PR3500-55GL",
+    "productprice": 0,
+    "stock": 0
+  },
+  {
+    "productcode": "PR3500-5GL",
+    "productprice": 498.59,
+    "stock": 0
+  },
+  {
+    "productcode": "PR3500GL",
+    "productprice": 122.78,
+    "stock": 0
+  },
+  {
+    "productcode": "0LUBE884-2",
+    "productprice": 13.83,
+    "stock": 1762
+  },
+  {
+    "productcode": "10210-1LB",
+    "productprice": 150.01,
+    "stock": 0
+  },
+  {
+    "productcode": "10P4-2QTKT",
+    "productprice": 104.05,
+    "stock": 0
+  },
+  {
+    "productcode": "1151T",
+    "productprice": 26.71,
+    "stock": 0
+  },
+  {
+    "productcode": "1/16J",
+    "productprice": 0,
+    "stock": 0
+  },
+  {
+    "productcode": "11MS140Z",
+    "productprice": 31.41,
+    "stock": 1894
+  },
+  {
+    "productcode": "11MS35LB",
+    "productprice": 937.14,
+    "stock": 61
+  },
+  {
+    "productcode": "14250-10Z",
+    "productprice": 8.96,
+    "stock": 0
+  },
+  {
+    "productcode": "184200GRAM",
+    "productprice": 276.93,
+    "stock": 95
+  },
+  {
+    "productcode": "1B151L",
+    "productprice": 130.95,
+    "stock": 92
+  },
+  {
+    "productcode": "1MS1-75LB",
+    "productprice": 131.89,
+    "stock": 143
+  },
+  {
+    "productcode": "1SAE15W40-1GL",
+    "productprice": 36.34,
+    "stock": 0
+  },
+  {
+    "productcode": "1SAE15W40-1QT",
+    "productprice": 6.49,
+    "stock": 0
+  },
+  {
+    "productcode": "1SAE15W40-5GL",
+    "productprice": 154.69,
+    "stock": 0
+  },
+  {
+    "productcode": "20W50ARPK",
+    "productprice": 175.45,
+    "stock": 0
+  },
+  {
+    "productcode": "22CF35LB",
+    "productprice": 1007.57,
+    "stock": 258
+  },
+  {
+    "productcode": "22CF6-5LB",
+    "productprice": 186.05,
+    "stock": 453
+  },
+  {
+    "productcode": "22CFCTG",
+    "productprice": 30.64,
+    "stock": 536
+  },
+  {
+    "productcode": "22MS1-75LB",
+    "productprice": 106.19,
+    "stock": 0
+  },
+  {
+    "productcode": "22MS35LB",
+    "productprice": 0,
+    "stock": 0
+  },
+  {
+    "productcode": "22MSCTG",
+    "productprice": 71.78,
+    "stock": 0
+  },
+  {
+    "productcode": "240AB20Z",
+    "productprice": 350.68,
+    "stock": 31
+  },
+  {
+    "productcode": "240AC20Z",
+    "productprice": 350.65,
+    "stock": 319
+  },
+  {
+    "productcode": "240AC80Z",
+    "productprice": 1179.36,
+    "stock": 0
+  },
+  {
+    "productcode": "240AZ20Z",
+    "productprice": 340.44,
+    "stock": 52
+  },
+  {
+    "productcode": "240AZ80Z",
+    "productprice": 1264,
+    "stock": 20
+  },
+  {
+    "productcode": "25006AEJR",
+    "productprice": 491.2,
+    "stock": 26
+  },
+  {
+    "productcode": "25006AESY",
+    "productprice": 136.51,
+    "stock": 26
+  },
+  {
+    "productcode": "25012AESY",
+    "productprice": 1003.35,
+    "stock": 9
+  },
+  {
+    "productcode": "25020AEJR",
+    "productprice": 240.88,
+    "stock": 1
+  },
+  {
+    "productcode": "25026CPPL",
+    "productprice": 747.83,
+    "stock": 7
+  },
+  {
+    "productcode": "25034AESY",
+    "productprice": 1081.6,
+    "stock": 17
+  },
+  {
+    "productcode": "25052AECP",
+    "productprice": 166.9,
+    "stock": 151
+  },
+  {
+    "productcode": "250AC20Z",
+    "productprice": 350.68,
+    "stock": 22
+  },
+  {
+    "productcode": "250AD80Z",
+    "productprice": 1179.5,
+    "stock": 0
+  },
+  {
+    "productcode": "25113ATJR",
+    "productprice": 80.81,
+    "stock": 238
+  },
+  {
+    "productcode": "25113ATPL",
+    "productprice": 1455.66,
+    "stock": 16
+  },
+  {
+    "productcode": "26020-1GL",
+    "productprice": 138.07,
+    "stock": 10
+  },
+  {
+    "productcode": "27002AEDR",
+    "productprice": 14955,
+    "stock": 1
+  },
+  {
+    "productcode": "27014AEDR",
+    "productprice": 1152.67,
+    "stock": 230
+  },
+  {
+    "productcode": "27014AEPL",
+    "productprice": 200.81,
+    "stock": 182
+  },
+  {
+    "productcode": "27019AEPL",
+    "productprice": 427.06,
+    "stock": 46
+  },
+  {
+    "productcode": "27029AECD",
+    "productprice": 21.15,
+    "stock": 233
+  },
+  {
+    "productcode": "27030AEPL",
+    "productprice": 752.91,
+    "stock": 117
+  },
+  {
+    "productcode": "27056APPL",
+    "productprice": 724.71,
+    "stock": 1
+  },
+  {
+    "productcode": "27059APCS1-2PT",
+    "productprice": 76.51,
+    "stock": 126
+  },
+  {
+    "productcode": "27059APPL",
+    "productprice": 767.81,
+    "stock": 8
+  },
+  {
+    "productcode": "27-35LB",
+    "productprice": 723.7,
+    "stock": 39
+  },
+  {
+    "productcode": "27-6-5LB",
+    "productprice": 160.35,
+    "stock": 0
+  },
+  {
+    "productcode": "27CTG",
+    "productprice": 25.81,
+    "stock": 421
+  },
+  {
+    "productcode": "283AD1-1LB",
+    "productprice": 2026.05,
+    "stock": 6
+  },
+  {
+    "productcode": "283AD20Z",
+    "productprice": 340.41,
+    "stock": 0
+  },
+  {
+    "productcode": "283AD80Z",
+    "productprice": 1144.93,
+    "stock": 7
+  },
+  {
+    "productcode": "308CA1GL",
+    "productprice": 73.92,
+    "stock": 214
+  },
+  {
+    "productcode": "308CA55GL",
+    "productprice": 2851.42,
+    "stock": 0
+  },
+  {
+    "productcode": "308CA5GL",
+    "productprice": 341.84,
+    "stock": 53
+  },
+  {
+    "productcode": "3/16J",
+    "productprice": 0,
+    "stock": 0
+  },
+  {
+    "productcode": "329-1QT",
+    "productprice": 205.1,
+    "stock": 0
+  },
+  {
+    "productcode": "363-1GL",
+    "productprice": 73.55,
+    "stock": 488
+  },
+  {
+    "productcode": "363-55GL",
+    "productprice": 2544.07,
+    "stock": 0
+  },
+  {
+    "productcode": "363-5GL",
+    "productprice": 288.8,
+    "stock": 154
+  },
+  {
+    "productcode": "363QT",
+    "productprice": 40.9,
+    "stock": 456
+  },
+  {
+    "productcode": "375NC5",
+    "productprice": 452.76,
+    "stock": 0
+  },
+  {
+    "productcode": "38GEAR600-68",
+    "productprice": 78.8,
+    "stock": 4
+  },
+  {
+    "productcode": "43-35LB",
+    "productprice": 1564.11,
+    "stock": 0
+  },
+  {
+    "productcode": "43-6-5LB",
+    "productprice": 330.16,
+    "stock": 83
+  },
+  {
+    "productcode": "44-1-75LB",
+    "productprice": 95.86,
+    "stock": 70
+  },
+  {
+    "productcode": "481-55GL",
+    "productprice": 2087.71,
+    "stock": 23
+  },
+  {
+    "productcode": "481-5GL",
+    "productprice": 230.4,
+    "stock": 78
+  },
+  {
+    "productcode": "482-5GL",
+    "productprice": 551.65,
+    "stock": 78
+  },
+  {
+    "productcode": "483-5GL",
+    "productprice": 446.19,
+    "stock": 17
+  },
+  {
+    "productcode": "490057-20Z",
+    "productprice": 30.1,
+    "stock": 0
+  },
+  {
+    "productcode": "49-35LB",
+    "productprice": 677,
+    "stock": 51
+  },
+  {
+    "productcode": "4UK07",
+    "productprice": 13.38,
+    "stock": 0
+  },
+  {
+    "productcode": "500-5GL",
+    "productprice": 540.29,
+    "stock": 40
+  },
+  {
+    "productcode": "515K011QTKT",
+    "productprice": 103.13,
+    "stock": 131
+  },
+  {
+    "productcode": "515X349GLKIT",
+    "productprice": 596.89,
+    "stock": 82
+  },
+  {
+    "productcode": "521X11387",
+    "productprice": 9,
+    "stock": 57
+  },
+  {
+    "productcode": "528X310QTKT",
+    "productprice": 188.71,
+    "stock": 57
+  },
+  {
+    "productcode": "555-55GL",
+    "productprice": 5776.1,
+    "stock": 9
+  },
+  {
+    "productcode": "555-5GL",
+    "productprice": 574.36,
+    "stock": 398
+  },
+  {
+    "productcode": "560-55GL",
+    "productprice": 0,
+    "stock": 0
+  },
+  {
+    "productcode": "581-55GL",
+    "productprice": 3381.2,
+    "stock": 3
+  },
+  {
+    "productcode": "586M5GL",
+    "productprice": 330.99,
+    "stock": 72
+  },
+  {
+    "productcode": "630AA1-750Z",
+    "productprice": 14.76,
+    "stock": 15
+  },
+  {
+    "productcode": "634-1GL",
+    "productprice": 139.45,
+    "stock": 0
+  },
+  {
+    "productcode": "64-35LB",
+    "productprice": 1025.51,
+    "stock": 0
+  },
+  {
+    "productcode": "64-6-5LB",
+    "productprice": 220.38,
+    "stock": 0
+  },
+  {
+    "productcode": "70104L40Z",
+    "productprice": 0,
+    "stock": 0
+  },
+  {
+    "productcode": "70106-1GL",
+    "productprice": 222.01,
+    "stock": 10
+  },
+  {
+    "productcode": "70307L",
+    "productprice": 13.04,
+    "stock": 0
+  },
+  {
+    "productcode": "710XX006",
+    "productprice": 23.54,
+    "stock": 50
+  },
+  {
+    "productcode": "710XX052",
+    "productprice": 4.71,
+    "stock": 737
+  },
+  {
+    "productcode": "710XX301",
+    "productprice": 30.85,
+    "stock": 61
+  },
+  {
+    "productcode": "808-1QT",
+    "productprice": 26.84,
+    "stock": 371
+  },
+  {
+    "productcode": "808-55GL",
+    "productprice": 4958.36,
+    "stock": 10
+  },
+  {
+    "productcode": "808-5GL",
+    "productprice": 499.72,
+    "stock": 7
+  },
+  {
+    "productcode": "81MS1-75LB",
+    "productprice": 289.1,
+    "stock": 411
+  },
+  {
+    "productcode": "825-1-75LB",
+    "productprice": 115.11,
+    "stock": 175
+  },
+  {
+    "productcode": "855-5GL",
+    "productprice": 2222.71,
+    "stock": 0
+  },
+  {
+    "productcode": "885-1GL",
+    "productprice": 170.63,
+    "stock": 218
+  },
+  {
+    "productcode": "885-55GL",
+    "productprice": 8748.52,
+    "stock": 0
+  },
+  {
+    "productcode": "885-5GL",
+    "productprice": 816.11,
+    "stock": 44
+  },
+  {
+    "productcode": "889-55GL",
+    "productprice": 4375.89,
+    "stock": 0
+  },
+  {
+    "productcode": "889-5GL",
+    "productprice": 394.26,
+    "stock": 25
+  },
+  {
+    "productcode": "899-1QT",
+    "productprice": 29.67,
+    "stock": 1708
+  },
+  {
+    "productcode": "899-55GL",
+    "productprice": 6017.85,
+    "stock": 4
+  },
+  {
+    "productcode": "8B6AQT",
+    "productprice": 307.51,
+    "stock": 37
+  },
+  {
+    "productcode": "90-006-2RF1LB",
+    "productprice": 162.01,
+    "stock": 108
+  },
+  {
+    "productcode": "950-55GL",
+    "productprice": 2888.07,
+    "stock": 30
+  },
+  {
+    "productcode": "950-5GL",
+    "productprice": 363.44,
+    "stock": 80
+  },
+  {
+    "productcode": "9AQT",
+    "productprice": 186.51,
+    "stock": 0
+  },
+  {
+    "productcode": "AER0KR0IL100Z",
+    "productprice": 22.21,
+    "stock": 1614
+  },
+  {
+    "productcode": "AER0KR0IL130Z",
+    "productprice": 26.56,
+    "stock": 1900
+  },
+  {
+    "productcode": "ALBCKIT",
+    "productprice": 37.26,
+    "stock": 60
+  },
+  {
+    "productcode": "ALHFTG",
+    "productprice": 433.29,
+    "stock": 26
+  },
+  {
+    "productcode": "ALSEAL75A1QTKIT",
+    "productprice": 378.04,
+    "stock": 2
+  },
+  {
+    "productcode": "AS9363016",
+    "productprice": 317.93,
+    "stock": 0
+  },
+  {
+    "productcode": "BATC0X8401-140Z",
+    "productprice": 95.16,
+    "stock": 208
+  },
+  {
+    "productcode": "BRAYC0815Z20Z",
+    "productprice": 627.67,
+    "stock": 1
+  },
+  {
+    "productcode": "BRAYC0TE236PT",
+    "productprice": 71.74,
+    "stock": 4
+  },
+  {
+    "productcode": "BRAYC0TE646QT",
+    "productprice": 0,
+    "stock": 0
+  },
+  {
+    "productcode": "C105-10-0Z",
+    "productprice": 21.13,
+    "stock": 0
+  },
+  {
+    "productcode": "C201-1-75LB",
+    "productprice": 3455.92,
+    "stock": 90
+  },
+  {
+    "productcode": "CC322275T",
+    "productprice": 8571.39,
+    "stock": 0
+  },
+  {
+    "productcode": "CC322330T",
+    "productprice": 10285.66,
+    "stock": 0
+  },
+  {
+    "productcode": "CC322S",
+    "productprice": 42.16,
+    "stock": 0
+  },
+  {
+    "productcode": "CM0110845GA",
+    "productprice": 99.64,
+    "stock": 105
+  },
+  {
+    "productcode": "CM0110933GA",
+    "productprice": 168.58,
+    "stock": 12
+  },
+  {
+    "productcode": "CM0120677QT",
+    "productprice": 82.16,
+    "stock": 54
+  },
+  {
+    "productcode": "CM0570566GA",
+    "productprice": 348.92,
+    "stock": 38
+  },
+  {
+    "productcode": "CM0578520GA",
+    "productprice": 399.26,
+    "stock": 0
+  },
+  {
+    "productcode": "CM0840081GA",
+    "productprice": 438.21,
+    "stock": 32
+  },
+  {
+    "productcode": "CM0981520QT",
+    "productprice": 154.06,
+    "stock": 22
+  },
+  {
+    "productcode": "CS1900PT",
+    "productprice": 182.73,
+    "stock": 85
+  },
+  {
+    "productcode": "CS1900QT",
+    "productprice": 337.35,
+    "stock": 0
+  },
+  {
+    "productcode": "CS2415B2PT",
+    "productprice": 198.2,
+    "stock": 29
+  },
+  {
+    "productcode": "CS3100T2CL2PT",
+    "productprice": 247.2,
+    "stock": 0
+  },
+  {
+    "productcode": "CS3201A12BLKPT",
+    "productprice": 261.73,
+    "stock": 0
+  },
+  {
+    "productcode": "CS3201B12PT",
+    "productprice": 276.28,
+    "stock": 13
+  },
+  {
+    "productcode": "CS3201B12QTBLK",
+    "productprice": 465.3,
+    "stock": 1
+  },
+  {
+    "productcode": "CS3204A1-2KITBK",
+    "productprice": 29.39,
+    "stock": 0
+  },
+  {
+    "productcode": "CS3204A1-2PT",
+    "productprice": 61.25,
+    "stock": 123
+  },
+  {
+    "productcode": "CS3204A1-2QT",
+    "productprice": 83.94,
+    "stock": 37
+  },
+  {
+    "productcode": "CS3204A2PT",
+    "productprice": 61.25,
+    "stock": 11
+  },
+  {
+    "productcode": "CS3204A2QT",
+    "productprice": 83.94,
+    "stock": 0
+  },
+  {
+    "productcode": "CS3204B1-2-2-5B",
+    "productprice": 20.9,
+    "stock": 17
+  },
+  {
+    "productcode": "CS3204B1-2KIT",
+    "productprice": 24.61,
+    "stock": 1431
+  },
+  {
+    "productcode": "CS3204B1-2KITBK",
+    "productprice": 24.61,
+    "stock": 0
+  },
+  {
+    "productcode": "CS3204B1-2PT",
+    "productprice": 56.17,
+    "stock": 252
+  },
+  {
+    "productcode": "CS3204B1-2QT",
+    "productprice": 78.66,
+    "stock": 338
+  },
+  {
+    "productcode": "CS3204B1-2QTBLK",
+    "productprice": 78.66,
+    "stock": 0
+  },
+  {
+    "productcode": "HT3326550",
+    "productprice": 84.66,
+    "stock": 0
+  },
+  {
+    "productcode": "CS3213B12",
+    "productprice": 34.95,
+    "stock": 34
+  },
+  {
+    "productcode": "CS3247B2",
+    "productprice": 52.25,
+    "stock": 52
+  },
+  {
+    "productcode": "CS3330A12PT",
+    "productprice": 126.5,
+    "stock": 11
+  },
+  {
+    "productcode": "CS3330B12KIT",
+    "productprice": 40.39,
+    "stock": 110
+  },
+  {
+    "productcode": "CS3330B12PT",
+    "productprice": 99.8,
+    "stock": 41
+  },
+  {
+    "productcode": "CS3330B12QT",
+    "productprice": 140.19,
+    "stock": 6
+  },
+  {
+    "productcode": "CS3330B2PT",
+    "productprice": 99.8,
+    "stock": 0
+  },
+  {
+    "productcode": "CS3600PT",
+    "productprice": 108.69,
+    "stock": 0
+  },
+  {
+    "productcode": "CS5306B12KIT",
+    "productprice": 174.97,
+    "stock": 0
+  },
+  {
+    "productcode": "FH6-20L",
+    "productprice": 590.45,
+    "stock": 0
+  },
+  {
+    "productcode": "GA001SP",
+    "productprice": 35.64,
+    "stock": 427
+  },
+  {
+    "productcode": "GN05-21",
+    "productprice": 47.06,
+    "stock": 55
+  },
+  {
+    "productcode": "GN148-21",
+    "productprice": 36.61,
+    "stock": 34
+  },
+  {
+    "productcode": "GN148-24",
+    "productprice": 66.84,
+    "stock": 266
+  },
+  {
+    "productcode": "GN15-21",
+    "productprice": 30.09,
+    "stock": 138
+  },
+  {
+    "productcode": "HT3000100",
+    "productprice": 182.36,
+    "stock": 89
+  },
+  {
+    "productcode": "L0034-094",
+    "productprice": 21.13,
+    "stock": 56
+  },
+  {
+    "productcode": "CS3204B1-4KIT",
+    "productprice": 24.61,
+    "stock": 160
+  },
+  {
+    "productcode": "EZTURN1LB",
+    "productprice": 31.24,
+    "stock": 145
+  },
+  {
+    "productcode": "F63BY6",
+    "productprice": 798.49,
+    "stock": 1
+  },
+  {
+    "productcode": "CS3204B2-3-5",
+    "productprice": 27.06,
+    "stock": 1
+  },
+  {
+    "productcode": "CS3204B2KIT",
+    "productprice": 24.61,
+    "stock": 1414
+  },
+  {
+    "productcode": "CS3204B2PT",
+    "productprice": 56.17,
+    "stock": 788
+  },
+  {
+    "productcode": "CS3204B2QT",
+    "productprice": 78.66,
+    "stock": 0
+  },
+  {
+    "productcode": "CS3204B2QTBLK",
+    "productprice": 78.66,
+    "stock": 34
+  },
+  {
+    "productcode": "CS5306B1-4-2-5",
+    "productprice": 153.69,
+    "stock": 0
+  },
+  {
+    "productcode": "DC111-14-10Z",
+    "productprice": 55.53,
+    "stock": 0
+  },
+  {
+    "productcode": "DC111-50Z",
+    "productprice": 22.16,
+    "stock": 1787
+  },
+  {
+    "productcode": "DC33LIGHT40LB",
+    "productprice": 2720.75,
+    "stock": 0
+  },
+  {
+    "productcode": "DC33LIGHT50Z",
+    "productprice": 40.27,
+    "stock": 1003
+  },
+  {
+    "productcode": "DC33LIGHT8LB",
+    "productprice": 657.79,
+    "stock": 31
+  },
+  {
+    "productcode": "DC33MED140Z",
+    "productprice": 102.5,
+    "stock": 199
+  },
+  {
+    "productcode": "DC4045299",
+    "productprice": 33.98,
+    "stock": 254
+  },
+  {
+    "productcode": "DC4045666",
+    "productprice": 31.1,
+    "stock": 780
+  },
+  {
+    "productcode": "DC4-30Z",
+    "productprice": 37.02,
+    "stock": 805
+  },
+  {
+    "productcode": "DC44LIGHT5-30Z",
+    "productprice": 40.06,
+    "stock": 0
+  },
+  {
+    "productcode": "DC55-5-30Z",
+    "productprice": 34.45,
+    "stock": 858
+  },
+  {
+    "productcode": "DC557-110Z",
+    "productprice": 36.06,
+    "stock": 260
+  },
+  {
+    "productcode": "GA001-0FRK",
+    "productprice": 133.99,
+    "stock": 0
+  },
+  {
+    "productcode": "GAMFL",
+    "productprice": 133.99,
+    "stock": 29
+  },
+  {
+    "productcode": "GN22-21",
+    "productprice": 38.34,
+    "stock": 190
+  },
+  {
+    "productcode": "GN22-24",
+    "productprice": 1363.09,
+    "stock": 0
+  },
+  {
+    "productcode": "GNGA47-24",
+    "productprice": 89.64,
+    "stock": 165
+  },
+  {
+    "productcode": "CS3204B4KIT",
+    "productprice": 24.61,
+    "stock": 10
+  },
+  {
+    "productcode": "DAPC02200250Z",
+    "productprice": 153.38,
+    "stock": 147
+  },
+  {
+    "productcode": "DAPC072-60Z",
+    "productprice": 218.26,
+    "stock": 2
+  },
+  {
+    "productcode": "DC106QT",
+    "productprice": 181.6,
+    "stock": 0
+  },
+  {
+    "productcode": "DC2301LB",
+    "productprice": 154.13,
+    "stock": 44
+  },
+  {
+    "productcode": "DC33MED50Z",
+    "productprice": 40.91,
+    "stock": 462
+  },
+  {
+    "productcode": "DC3400A",
+    "productprice": 275.41,
+    "stock": 0
+  },
+  {
+    "productcode": "DC3402C",
+    "productprice": 122.7,
+    "stock": 0
+  },
+  {
+    "productcode": "DC340-30Z",
+    "productprice": 63.35,
+    "stock": 26
+  },
+  {
+    "productcode": "DC340-50Z",
+    "productprice": 53.58,
+    "stock": 404
+  },
+  {
+    "productcode": "DC976-5-30Z",
+    "productprice": 68.29,
+    "stock": 9
+  },
+  {
+    "productcode": "DCM77-350Z",
+    "productprice": 349.45,
+    "stock": 60
+  },
+  {
+    "productcode": "DRILUBE822-30ML",
+    "productprice": 1720.26,
+    "stock": 3
+  },
+  {
+    "productcode": "E09028",
+    "productprice": 384.84,
+    "stock": 10
+  },
+  {
+    "productcode": "E09056",
+    "productprice": 330.28,
+    "stock": 6
+  },
+  {
+    "productcode": "E659-1LB",
+    "productprice": 205.32,
+    "stock": 63
+  },
+  {
+    "productcode": "EDM275T",
+    "productprice": 6478.93,
+    "stock": 0
+  },
+  {
+    "productcode": "EDM330T",
+    "productprice": 7774.7,
+    "stock": 0
+  },
+  {
+    "productcode": "EDMD",
+    "productprice": 1295.77,
+    "stock": 0
+  },
+  {
+    "productcode": "EDMP",
+    "productprice": 147.25,
+    "stock": 0
+  },
+  {
+    "productcode": "ELITE20W50QT",
+    "productprice": 1.93,
+    "stock": 0
+  },
+  {
+    "productcode": "ESNALUBE382PT",
+    "productprice": 177.5,
+    "stock": 63
+  },
+  {
+    "productcode": "EV811GL",
+    "productprice": 582.39,
+    "stock": 0
+  },
+  {
+    "productcode": "EVERLUBE810QT",
+    "productprice": 211.44,
+    "stock": 4
+  },
+  {
+    "productcode": "EVERLUBE811PT",
+    "productprice": 0,
+    "stock": 0
+  },
+  {
+    "productcode": "EVERLUBE811QT",
+    "productprice": 203.85,
+    "stock": 0
+  },
+  {
+    "productcode": "EVERLUBE9001",
+    "productprice": 134.74,
+    "stock": 0
+  },
+  {
+    "productcode": "EZTURN50Z",
+    "productprice": 20.41,
+    "stock": 0
+  },
+  {
+    "productcode": "F63TXA0515",
+    "productprice": 174.1,
+    "stock": 0
+  },
+  {
+    "productcode": "F63WY30",
+    "productprice": 557.33,
+    "stock": 0
+  },
+  {
+    "productcode": "F75KXB9958",
+    "productprice": 21.44,
+    "stock": 46
+  },
+  {
+    "productcode": "F75KXR12320",
+    "productprice": 24.05,
+    "stock": 139
+  },
+  {
+    "productcode": "F75KXS9754",
+    "productprice": 24.13,
+    "stock": 0
+  },
+  {
+    "productcode": "F93A2030",
+    "productprice": 190.05,
+    "stock": 11
+  },
+  {
+    "productcode": "FH3-55",
+    "productprice": 6022.73,
+    "stock": 0
+  },
+  {
+    "productcode": "FH6-55",
+    "productprice": 6093.45,
+    "stock": 0
+  },
+  {
+    "productcode": "GADUSS2V2202",
+    "productprice": 9.04,
+    "stock": 80
+  },
+  {
+    "productcode": "GN06-21",
+    "productprice": 158.52,
+    "stock": 139
+  },
+  {
+    "productcode": "GN07-21",
+    "productprice": 38.44,
+    "stock": 82
+  },
+  {
+    "productcode": "GN10-21",
+    "productprice": 38.45,
+    "stock": 166
+  },
+  {
+    "productcode": "GN17-21",
+    "productprice": 48.45,
+    "stock": 147
+  },
+  {
+    "productcode": "GN4343-21",
+    "productprice": 133.22,
+    "stock": 211
+  },
+  {
+    "productcode": "GN46-21",
+    "productprice": 68.7,
+    "stock": 24
+  },
+  {
+    "productcode": "GNPASTE",
+    "productprice": 14.4,
+    "stock": 2346
+  },
+  {
+    "productcode": "GNPASTEPT",
+    "productprice": 62.51,
+    "stock": 262
+  },
+  {
+    "productcode": "GP460-40Z",
+    "productprice": 46.9,
+    "stock": 505
+  },
+  {
+    "productcode": "GP460PT",
+    "productprice": 59.07,
+    "stock": 761
+  },
+  {
+    "productcode": "GPL206-1-1LB",
+    "productprice": 413.9,
+    "stock": 6
+  },
+  {
+    "productcode": "GPL206-20Z",
+    "productprice": 75.24,
+    "stock": 18
+  },
+  {
+    "productcode": "GPL206-80Z",
+    "productprice": 255.46,
+    "stock": 140
+  },
+  {
+    "productcode": "H99NY2",
+    "productprice": 602.94,
+    "stock": 0
+  },
+  {
+    "productcode": "HIT650QT",
+    "productprice": 171.38,
+    "stock": 16
+  },
+  {
+    "productcode": "JM3764",
+    "productprice": 275.89,
+    "stock": 10
+  },
+  {
+    "productcode": "JM3765-5ML",
+    "productprice": 32.08,
+    "stock": 39
+  },
+  {
+    "productcode": "KR0IL1GAL",
+    "productprice": 127.61,
+    "stock": 33
+  },
+  {
+    "productcode": "PR1422B1-2",
+    "productprice": 76.73,
+    "stock": 2792
+  },
+  {
+    "productcode": "L09003",
+    "productprice": 333.61,
+    "stock": 22
+  },
+  {
+    "productcode": "L09005",
+    "productprice": 333.61,
+    "stock": 0
+  },
+  {
+    "productcode": "L09008",
+    "productprice": 333.61,
+    "stock": 63
+  },
+  {
+    "productcode": "L09775",
+    "productprice": 384.84,
+    "stock": 0
+  },
+  {
+    "productcode": "L09995",
+    "productprice": 333.61,
+    "stock": 28
+  },
+  {
+    "productcode": "L0A101K",
+    "productprice": 1.99,
+    "stock": 464
+  },
+  {
+    "productcode": "L101",
+    "productprice": 16.66,
+    "stock": 35
+  },
+  {
+    "productcode": "L99307",
+    "productprice": 384.84,
+    "stock": 0
+  },
+  {
+    "productcode": "LC300QT",
+    "productprice": 199.6,
+    "stock": 0
+  },
+  {
+    "productcode": "LIQUIM0LYNVPT",
+    "productprice": 83.99,
+    "stock": 109
+  },
+  {
+    "productcode": "LUB0M0LYP0WDER",
+    "productprice": 135.3,
+    "stock": 68
+  },
+  {
+    "productcode": "LUBEL0K1000QT",
+    "productprice": 243.24,
+    "stock": 6
+  },
+  {
+    "productcode": "LUBEL0K2006QT",
+    "productprice": 109.13,
+    "stock": 0
+  },
+  {
+    "productcode": "LUBEL0K2109D",
+    "productprice": 81.26,
+    "stock": 0
+  },
+  {
+    "productcode": "LUBEL0K2396QT",
+    "productprice": 245.39,
+    "stock": 0
+  },
+  {
+    "productcode": "LUBEL0K4253QT",
+    "productprice": 0,
+    "stock": 0
+  },
+  {
+    "productcode": "LUBEL0K4396",
+    "productprice": 189.72,
+    "stock": 0
+  },
+  {
+    "productcode": "LUBEL0K4396QT",
+    "productprice": 534.08,
+    "stock": 0
+  },
+  {
+    "productcode": "LUBEL0K5306QT",
+    "productprice": 76.3,
+    "stock": 9
+  },
+  {
+    "productcode": "LUBT0RKPT",
+    "productprice": 48.61,
+    "stock": 324
+  },
+  {
+    "productcode": "M0BIL1SYNATF1QT",
+    "productprice": 20.01,
+    "stock": 629
+  },
+  {
+    "productcode": "M0LITH2",
+    "productprice": 22.05,
+    "stock": 563
+  },
+  {
+    "productcode": "M0LYK0TEDX",
+    "productprice": 186.13,
+    "stock": 114
+  },
+  {
+    "productcode": "M0S2-1190",
+    "productprice": 117.49,
+    "stock": 7
+  },
+  {
+    "productcode": "M0USEMILK320Z",
+    "productprice": 26.1,
+    "stock": 130
+  },
+  {
+    "productcode": "M0USEMILK80Z",
+    "productprice": 8.85,
+    "stock": 459
+  },
+  {
+    "productcode": "M77-80Z",
+    "productprice": 179.19,
+    "stock": 0
+  },
+  {
+    "productcode": "MASTIN0XD40",
+    "productprice": 183.36,
+    "stock": 0
+  },
+  {
+    "productcode": "MCS352BQT",
+    "productprice": 315.54,
+    "stock": 134
+  },
+  {
+    "productcode": "ML5EH330T",
+    "productprice": 10071.76,
+    "stock": 0
+  },
+  {
+    "productcode": "ML5EHD",
+    "productprice": 1678.63,
+    "stock": 0
+  },
+  {
+    "productcode": "ML5EHP",
+    "productprice": 190.75,
+    "stock": 0
+  },
+  {
+    "productcode": "ML5EHS",
+    "productprice": 47.69,
+    "stock": 0
+  },
+  {
+    "productcode": "MM13RQT",
+    "productprice": 11.36,
+    "stock": 145
+  },
+  {
+    "productcode": "MM85R",
+    "productprice": 11.2,
+    "stock": 0
+  },
+  {
+    "productcode": "MS143XDGL",
+    "productprice": 1033.16,
+    "stock": 0
+  },
+  {
+    "productcode": "N010J",
+    "productprice": 3.64,
+    "stock": 0
+  },
+  {
+    "productcode": "N030J",
+    "productprice": 1.06,
+    "stock": 0
+  },
+  {
+    "productcode": "N0VAGARDG635",
+    "productprice": 36.83,
+    "stock": 158
+  },
+  {
+    "productcode": "N0XRUSTVCI10PL",
+    "productprice": 351.54,
+    "stock": 14
+  },
+  {
+    "productcode": "NL11B1L",
+    "productprice": 58.29,
+    "stock": 75
+  },
+  {
+    "productcode": "NL3525-24",
+    "productprice": 42.31,
+    "stock": 76
+  },
+  {
+    "productcode": "NL64-20L",
+    "productprice": 1728.19,
+    "stock": 0
+  },
+  {
+    "productcode": "NL64-5L",
+    "productprice": 368.98,
+    "stock": 0
+  },
+  {
+    "productcode": "NL7870-24",
+    "productprice": 182.59,
+    "stock": 0
+  },
+  {
+    "productcode": "NP04-24",
+    "productprice": 53.36,
+    "stock": 60
+  },
+  {
+    "productcode": "NP06-24",
+    "productprice": 57.25,
+    "stock": 21
+  },
+  {
+    "productcode": "NS160-160Z",
+    "productprice": 38.95,
+    "stock": 169
+  },
+  {
+    "productcode": "NSBT8",
+    "productprice": 24.31,
+    "stock": 83
+  },
+  {
+    "productcode": "NYC065-24",
+    "productprice": 60.64,
+    "stock": 48
+  },
+  {
+    "productcode": "NYC065VASELINE-CN",
+    "productprice": 58.36,
+    "stock": 0
+  },
+  {
+    "productcode": "NYC0DIEL20",
+    "productprice": 795.45,
+    "stock": 0
+  },
+  {
+    "productcode": "NYC0GREASEGN25013CN",
+    "productprice": 1810.72,
+    "stock": 0
+  },
+  {
+    "productcode": "NYC0LUBE3525-20L",
+    "productprice": 406.16,
+    "stock": 28
+  },
+  {
+    "productcode": "P1022",
+    "productprice": 102.8,
+    "stock": 0
+  },
+  {
+    "productcode": "P37",
+    "productprice": 112.46,
+    "stock": 107
+  },
+  {
+    "productcode": "PC16-2008T",
+    "productprice": 327.79,
+    "stock": 0
+  },
+  {
+    "productcode": "PC16-9558",
+    "productprice": 218.14,
+    "stock": 0
+  },
+  {
+    "productcode": "PEC642DQT",
+    "productprice": 93.25,
+    "stock": 28
+  },
+  {
+    "productcode": "PEC642GL",
+    "productprice": 263.75,
+    "stock": 2
+  },
+  {
+    "productcode": "PEC642QT",
+    "productprice": 167.43,
+    "stock": 14
+  },
+  {
+    "productcode": "PEN382GL",
+    "productprice": 887.52,
+    "stock": 0
+  },
+  {
+    "productcode": "PEN382QT",
+    "productprice": 310.65,
+    "stock": 23
+  },
+  {
+    "productcode": "PERMASLIKG",
+    "productprice": 42.16,
+    "stock": 362
+  },
+  {
+    "productcode": "PERMASLIKGQT",
+    "productprice": 103.15,
+    "stock": 0
+  },
+  {
+    "productcode": "PEV620CDGL",
+    "productprice": 218.5,
+    "stock": 0
+  },
+  {
+    "productcode": "PEV620CDQT",
+    "productprice": 76.47,
+    "stock": 0
+  },
+  {
+    "productcode": "PEV620CGL",
+    "productprice": 395.53,
+    "stock": 1
+  },
+  {
+    "productcode": "PEV620CQT",
+    "productprice": 118.67,
+    "stock": 0
+  },
+  {
+    "productcode": "PEV620DQT",
+    "productprice": 77.51,
+    "stock": 0
+  },
+  {
+    "productcode": "PEV620GL",
+    "productprice": 417,
+    "stock": 1
+  },
+  {
+    "productcode": "PEV620QT",
+    "productprice": 145.94,
+    "stock": 0
+  },
+  {
+    "productcode": "PEV810DQT",
+    "productprice": 90,
+    "stock": 0
+  },
+  {
+    "productcode": "PEV9001GL",
+    "productprice": 594.03,
+    "stock": 0
+  },
+  {
+    "productcode": "PEV9001QT",
+    "productprice": 207.91,
+    "stock": 189
+  },
+  {
+    "productcode": "PEV9002GL",
+    "productprice": 553.13,
+    "stock": 0
+  },
+  {
+    "productcode": "PEV9002QT",
+    "productprice": 177.14,
+    "stock": 21
+  },
+  {
+    "productcode": "PEV967CQT",
+    "productprice": 706.7,
+    "stock": 0
+  },
+  {
+    "productcode": "PL32-40ZMED",
+    "productprice": 43.51,
+    "stock": 414
+  },
+  {
+    "productcode": "PLB220AE",
+    "productprice": 36.86,
+    "stock": 771
+  },
+  {
+    "productcode": "PLB220GL",
+    "productprice": 272.95,
+    "stock": 0
+  },
+  {
+    "productcode": "PLB220QT",
+    "productprice": 95.54,
+    "stock": 103
+  },
+  {
+    "productcode": "PLBAAE",
+    "productprice": 33.74,
+    "stock": 0
+  },
+  {
+    "productcode": "PLBAGL",
+    "productprice": 229.03,
+    "stock": 0
+  },
+  {
+    "productcode": "PLBAQT",
+    "productprice": 80.16,
+    "stock": 36
+  },
+  {
+    "productcode": "PLBHTQT",
+    "productprice": 141.16,
+    "stock": 11
+  },
+  {
+    "productcode": "PLL5396DQT",
+    "productprice": 100.61,
+    "stock": 0
+  },
+  {
+    "productcode": "PPS1460WQT",
+    "productprice": 64.92,
+    "stock": 0
+  },
+  {
+    "productcode": "PPSGQT",
+    "productprice": 103.15,
+    "stock": 8
+  },
+  {
+    "productcode": "PPSRMACGL",
+    "productprice": 333.82,
+    "stock": 1
+  },
+  {
+    "productcode": "PR1005LPT",
+    "productprice": 183.28,
+    "stock": 94
+  },
+  {
+    "productcode": "PR1197PT",
+    "productprice": 984.27,
+    "stock": 0
+  },
+  {
+    "productcode": "PR12001090ZCL",
+    "productprice": 59.05,
+    "stock": 261
+  },
+  {
+    "productcode": "PR1200-10-90ZRD",
+    "productprice": 59.05,
+    "stock": 144
+  },
+  {
+    "productcode": "PR1422A2-60Z",
+    "productprice": 71.46,
+    "stock": 8
+  },
+  {
+    "productcode": "PR1422B2-60Z",
+    "productprice": 76.73,
+    "stock": 1647
+  },
+  {
+    "productcode": "PR1422B2PT",
+    "productprice": 155.5,
+    "stock": 409
+  },
+  {
+    "productcode": "PR1425B1-2",
+    "productprice": 141.4,
+    "stock": 1164
+  },
+  {
+    "productcode": "PR1773B1-2",
+    "productprice": 127.49,
+    "stock": 658
+  },
+  {
+    "productcode": "PR1425B1-2-5",
+    "productprice": 114.43,
+    "stock": 143
+  },
+  {
+    "productcode": "PR1425B1-2PT",
+    "productprice": 218.28,
+    "stock": 137
+  },
+  {
+    "productcode": "PR1425B2-60Z",
+    "productprice": 134.05,
+    "stock": 463
+  },
+  {
+    "productcode": "PR1428A1-2",
+    "productprice": 142.19,
+    "stock": 154
+  },
+  {
+    "productcode": "PR1428A2",
+    "productprice": 134.8,
+    "stock": 0
+  },
+  {
+    "productcode": "PR1428B1-2",
+    "productprice": 131.95,
+    "stock": 1038
+  },
+  {
+    "productcode": "PR1428B2",
+    "productprice": 122.25,
+    "stock": 370
+  },
+  {
+    "productcode": "PR1428B2PT",
+    "productprice": 272.3,
+    "stock": 56
+  },
+  {
+    "productcode": "PR1428B2PTKT",
+    "productprice": 281.18,
+    "stock": 0
+  },
+  {
+    "productcode": "PR1436GPT",
+    "productprice": 313.78,
+    "stock": 52
+  },
+  {
+    "productcode": "PR1440-A1-2-60Z",
+    "productprice": 61.15,
+    "stock": 179
+  },
+  {
+    "productcode": "PR1440A1-2PTKT",
+    "productprice": 140.36,
+    "stock": 54
+  },
+  {
+    "productcode": "PR1440A2-654",
+    "productprice": 57.98,
+    "stock": 404
+  },
+  {
+    "productcode": "PR1440A2PT",
+    "productprice": 152.88,
+    "stock": 74
+  },
+  {
+    "productcode": "PR1440B1-2PT",
+    "productprice": 153.61,
+    "stock": 0
+  },
+  {
+    "productcode": "PR1440B2",
+    "productprice": 61.45,
+    "stock": 0
+  },
+  {
+    "productcode": "PR1440B2PT",
+    "productprice": 148.86,
+    "stock": 219
+  },
+  {
+    "productcode": "PR1750A1-2",
+    "productprice": 76.94,
+    "stock": 55
+  },
+  {
+    "productcode": "PR1750A1-2PT",
+    "productprice": 180.5,
+    "stock": 24
+  },
+  {
+    "productcode": "PR1750A2",
+    "productprice": 72.95,
+    "stock": 170
+  },
+  {
+    "productcode": "PR1750A2PT",
+    "productprice": 182.34,
+    "stock": 18
+  },
+  {
+    "productcode": "PR1750B1-2-60Z",
+    "productprice": 80.19,
+    "stock": 8
+  },
+  {
+    "productcode": "PR1750B1-2PT",
+    "productprice": 190.38,
+    "stock": 36
+  },
+  {
+    "productcode": "PR1750B2-60Z",
+    "productprice": 80.19,
+    "stock": 210
+  },
+  {
+    "productcode": "PR1750B2PTKT",
+    "productprice": 196.57,
+    "stock": 141
+  },
+  {
+    "productcode": "PR1764B2",
+    "productprice": 1288.04,
+    "stock": 2
+  },
+  {
+    "productcode": "PR1764B2-2-50Z",
+    "productprice": 756.49,
+    "stock": 0
+  },
+  {
+    "productcode": "PR1772B2-60Z",
+    "productprice": 138.72,
+    "stock": 332
+  },
+  {
+    "productcode": "PR1773B1-2PT",
+    "productprice": 228.28,
+    "stock": 9
+  },
+  {
+    "productcode": "PR1775B2-1QT",
+    "productprice": 486.44,
+    "stock": 6
+  },
+  {
+    "productcode": "PR1775B2-60Z",
+    "productprice": 108.49,
+    "stock": 666
+  },
+  {
+    "productcode": "PR1776M1-2-60Z",
+    "productprice": 109.59,
+    "stock": 0
+  },
+  {
+    "productcode": "PR1776M1-2BMPT",
+    "productprice": 249.49,
+    "stock": 43
+  },
+  {
+    "productcode": "PR1776M2-60Z",
+    "productprice": 103.89,
+    "stock": 692
+  },
+  {
+    "productcode": "PR1776MB2-60Z",
+    "productprice": 103.89,
+    "stock": 2142
+  },
+  {
+    "productcode": "PR1776MB2BPT",
+    "productprice": 238.92,
+    "stock": 53
+  },
+  {
+    "productcode": "PR1776MB2PT",
+    "productprice": 238.92,
+    "stock": 0
+  },
+  {
+    "productcode": "PR1826A1-2",
+    "productprice": 259.75,
+    "stock": 18
+  },
+  {
+    "productcode": "PR1826B1-2",
+    "productprice": 202.41,
+    "stock": 159
+  },
+  {
+    "productcode": "PR1826B1-4",
+    "productprice": 202.41,
+    "stock": 226
+  },
+  {
+    "productcode": "PR1828B1-2",
+    "productprice": 235.09,
+    "stock": 66
+  },
+  {
+    "productcode": "PR1828B1-4",
+    "productprice": 247.97,
+    "stock": 14
+  },
+  {
+    "productcode": "PR1829B1-2",
+    "productprice": 174.34,
+    "stock": 163
+  },
+  {
+    "productcode": "PR1829B1-4",
+    "productprice": 182.03,
+    "stock": 84
+  },
+  {
+    "productcode": "PR1829B2",
+    "productprice": 174.34,
+    "stock": 88
+  },
+  {
+    "productcode": "PR2001B1-2",
+    "productprice": 211.65,
+    "stock": 813
+  },
+  {
+    "productcode": "PR2001B2-4-50Z",
+    "productprice": 200.65,
+    "stock": 481
+  },
+  {
+    "productcode": "PS700",
+    "productprice": 379.77,
+    "stock": 34
+  },
+  {
+    "productcode": "PS700-60Z",
+    "productprice": 180.88,
+    "stock": 399
+  },
+  {
+    "productcode": "PS860B1-6",
+    "productprice": 146.5,
+    "stock": 0
+  },
+  {
+    "productcode": "PS870A1-2",
+    "productprice": 96.68,
+    "stock": 692
+  },
+  {
+    "productcode": "PS870A1-2PTKT",
+    "productprice": 222.34,
+    "stock": 96
+  },
+  {
+    "productcode": "PS870B1-2",
+    "productprice": 93.31,
+    "stock": 1922
+  },
+  {
+    "productcode": "PS870B1-2-20Z",
+    "productprice": 74.66,
+    "stock": 360
+  },
+  {
+    "productcode": "PS870B1-2-60Z",
+    "productprice": 88.46,
+    "stock": 0
+  },
+  {
+    "productcode": "PS870B1-2PTM",
+    "productprice": 197.06,
+    "stock": 18
+  },
+  {
+    "productcode": "PS870B1-2QT",
+    "productprice": 379.19,
+    "stock": 210
+  },
+  {
+    "productcode": "PS870B2-60Z",
+    "productprice": 88.46,
+    "stock": 2789
+  },
+  {
+    "productcode": "PS870B2-60ZTP2",
+    "productprice": 88.46,
+    "stock": 0
+  },
+  {
+    "productcode": "PS870B2PTM",
+    "productprice": 203.47,
+    "stock": 0
+  },
+  {
+    "productcode": "PS870C12",
+    "productprice": 132.27,
+    "stock": 971
+  },
+  {
+    "productcode": "PS870C12PT",
+    "productprice": 288.45,
+    "stock": 62
+  },
+  {
+    "productcode": "PS870C24",
+    "productprice": 120.69,
+    "stock": 550
+  },
+  {
+    "productcode": "PS890A2-60Z",
+    "productprice": 63.67,
+    "stock": 823
+  },
+  {
+    "productcode": "PS890B1-2",
+    "productprice": 66.61,
+    "stock": 1110
+  },
+  {
+    "productcode": "PS890B1-2PT",
+    "productprice": 166.5,
+    "stock": 432
+  },
+  {
+    "productcode": "PS890B2-60Z",
+    "productprice": 66.61,
+    "stock": 947
+  },
+  {
+    "productcode": "PS890B2PT",
+    "productprice": 166.5,
+    "stock": 498
+  },
+  {
+    "productcode": "PYR0LUBE",
+    "productprice": 167.88,
+    "stock": 0
+  },
+  {
+    "productcode": "RHE0LUB733MZ30C",
+    "productprice": 38.86,
+    "stock": 71
+  },
+  {
+    "productcode": "RHE0LUBE733MZ",
+    "productprice": 265,
+    "stock": 0
+  },
+  {
+    "productcode": "RTV109-10-1ALU",
+    "productprice": 18.36,
+    "stock": 303
+  },
+  {
+    "productcode": "RTV133-10-10Z",
+    "productprice": 127.42,
+    "stock": 0
+  },
+  {
+    "productcode": "RTV3140-30Z",
+    "productprice": 46.05,
+    "stock": 0
+  },
+  {
+    "productcode": "RTV3145-10-30ZC",
+    "productprice": 154.11,
+    "stock": 0
+  },
+  {
+    "productcode": "RTV3145-10-30ZG",
+    "productprice": 154.11,
+    "stock": 0
+  },
+  {
+    "productcode": "RTV3145-30Z",
+    "productprice": 57.76,
+    "stock": 0
+  },
+  {
+    "productcode": "RTV3145-30ZGRAY",
+    "productprice": 57.76,
+    "stock": 0
+  },
+  {
+    "productcode": "RTV630-1LB",
+    "productprice": 139.86,
+    "stock": 0
+  },
+  {
+    "productcode": "RTV730FS30Z",
+    "productprice": 176.8,
+    "stock": 92
+  },
+  {
+    "productcode": "RTV732-10-10ZBL",
+    "productprice": 10.63,
+    "stock": 519
+  },
+  {
+    "productcode": "RTV732-10-10ZCL",
+    "productprice": 10.63,
+    "stock": 1440
+  },
+  {
+    "productcode": "RTV732-10-10ZWH",
+    "productprice": 10.63,
+    "stock": 194
+  },
+  {
+    "productcode": "RTV732-30Z",
+    "productprice": 6.13,
+    "stock": 2904
+  },
+  {
+    "productcode": "RTV732-30ZALU",
+    "productprice": 6.46,
+    "stock": 598
+  },
+  {
+    "productcode": "RTV732-30ZBLK",
+    "productprice": 6.46,
+    "stock": 400
+  },
+  {
+    "productcode": "RTV732-30ZWHI",
+    "productprice": 6.13,
+    "stock": 3907
+  },
+  {
+    "productcode": "RTV732-50ZCLR",
+    "productprice": 9.85,
+    "stock": 351
+  },
+  {
+    "productcode": "RTV732-50ZWHI",
+    "productprice": 9.85,
+    "stock": 414
+  },
+  {
+    "productcode": "RTV736-10-10ZRD",
+    "productprice": 26.07,
+    "stock": 618
+  },
+  {
+    "productcode": "RTV736-30ZRED",
+    "productprice": 15.84,
+    "stock": 1615
+  },
+  {
+    "productcode": "RTV9910",
+    "productprice": 161.84,
+    "stock": 7
+  },
+  {
+    "productcode": "S01324-160Z",
+    "productprice": 9.64,
+    "stock": 0
+  },
+  {
+    "productcode": "S500CF275T",
+    "productprice": 7429.56,
+    "stock": 0
+  },
+  {
+    "productcode": "S500CF330T",
+    "productprice": 8915.46,
+    "stock": 0
+  },
+  {
+    "productcode": "S500CFD",
+    "productprice": 1485.91,
+    "stock": 0
+  },
+  {
+    "productcode": "S500CFS",
+    "productprice": 42.2,
+    "stock": 0
+  },
+  {
+    "productcode": "PR1440B1-2",
+    "productprice": 61.45,
+    "stock": 1109
+  },
+  {
+    "productcode": "PR1440B2QT",
+    "productprice": 262.6,
+    "stock": 12
+  },
+  {
+    "productcode": "PS870B1-2-PT",
+    "productprice": 203.47,
+    "stock": 575
+  },
+  {
+    "productcode": "SATAP275T",
+    "productprice": 11202.97,
+    "stock": 0
+  },
+  {
+    "productcode": "SATAP80Z",
+    "productprice": 242.78,
+    "stock": 0
+  },
+  {
+    "productcode": "SILIKR0IL100Z",
+    "productprice": 22.56,
+    "stock": 72
+  },
+  {
+    "productcode": "SILIKR0IL5GL",
+    "productprice": 0,
+    "stock": 0
+  },
+  {
+    "productcode": "SILVERG00P",
+    "productprice": 193.9,
+    "stock": 307
+  },
+  {
+    "productcode": "SPIRAX75W80",
+    "productprice": 0,
+    "stock": 0
+  },
+  {
+    "productcode": "SPIRAXS75W90",
+    "productprice": 24.89,
+    "stock": 0
+  },
+  {
+    "productcode": "T8EH80Z",
+    "productprice": 409.94,
+    "stock": 64
+  },
+  {
+    "productcode": "T8EPASTE",
+    "productprice": 231.39,
+    "stock": 42
+  },
+  {
+    "productcode": "TECTYL502CQT",
+    "productprice": 56.83,
+    "stock": 0
+  },
+  {
+    "productcode": "TELLUS22-5GL",
+    "productprice": 212.14,
+    "stock": 0
+  },
+  {
+    "productcode": "TI0L0NA20",
+    "productprice": 66.24,
+    "stock": 114
+  },
+  {
+    "productcode": "TI0LUBE20-20QT",
+    "productprice": 162.96,
+    "stock": 0
+  },
+  {
+    "productcode": "TI0LUBE70",
+    "productprice": 63.31,
+    "stock": 44
+  },
+  {
+    "productcode": "TI0LUBE70R",
+    "productprice": 86.91,
+    "stock": 0
+  },
+  {
+    "productcode": "TN3516-24",
+    "productprice": 37.55,
+    "stock": 475
+  },
+  {
+    "productcode": "TRIB0LUBE15",
+    "productprice": 591.25,
+    "stock": 1
+  },
+  {
+    "productcode": "TRIB0LUBE15-5GM",
+    "productprice": 95.13,
+    "stock": 0
+  },
+  {
+    "productcode": "TRIB0LUBE2N",
+    "productprice": 487.09,
+    "stock": 0
+  },
+  {
+    "productcode": "TRIB0LUBE36RPC",
+    "productprice": 145.79,
+    "stock": 216
+  },
+  {
+    "productcode": "TRIB0LUBE64RPA",
+    "productprice": 1089.55,
+    "stock": 10
+  },
+  {
+    "productcode": "TRIB0LUBE64RPC",
+    "productprice": 200.31,
+    "stock": 459
+  },
+  {
+    "productcode": "TRIB0LUBE64RPC140Z",
+    "productprice": 992.02,
+    "stock": 0
+  },
+  {
+    "productcode": "TRIB0LUBE64RPC2-2LB",
+    "productprice": 2426.05,
+    "stock": 16
+  },
+  {
+    "productcode": "TURB0NYC0IL160",
+    "productprice": 42.73,
+    "stock": 71
+  },
+  {
+    "productcode": "U08466GL",
+    "productprice": 539.05,
+    "stock": 0
+  },
+  {
+    "productcode": "V66VB11",
+    "productprice": 156.95,
+    "stock": 2
+  },
+  {
+    "productcode": "VACTRA2-5GL",
+    "productprice": 247.89,
+    "stock": 58
+  },
+  {
+    "productcode": "VACTRA4-55GL",
+    "productprice": 1473.31,
+    "stock": 0
+  },
+  {
+    "productcode": "VEL0CITE10-5GL",
+    "productprice": 164.79,
+    "stock": 0
+  },
+  {
+    "productcode": "WAYCLEAR2275T",
+    "productprice": 5789.9,
+    "stock": 0
+  },
+  {
+    "productcode": "WAYCLEAR2330T",
+    "productprice": 6947.88,
+    "stock": 0
+  },
+  {
+    "productcode": "WAYCLEAR2D",
+    "productprice": 1157.97,
+    "stock": 0
+  },
+  {
+    "productcode": "WD40-1GL",
+    "productprice": 40.29,
+    "stock": 490
+  },
+  {
+    "productcode": "WD40-55GL",
+    "productprice": 1970.49,
+    "stock": 0
+  },
+  {
+    "productcode": "WD40-5GL",
+    "productprice": 184.76,
+    "stock": 20
+  },
+  {
+    "productcode": "WD40APPL",
+    "productprice": 5.6,
+    "stock": 0
+  },
+  {
+    "productcode": "XHTBDX20Z",
+    "productprice": 166.14,
+    "stock": 54
+  }
+]

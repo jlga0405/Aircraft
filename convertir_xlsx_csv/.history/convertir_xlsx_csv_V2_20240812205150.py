@@ -30,9 +30,6 @@ def convertir_xlsx_a_csv(ruta_archivo_xlsx, ruta_archivo_csv):
     # Leer el archivo .xlsx
     df = pd.read_excel(ruta_archivo_xlsx)
 
-    # Formatear los decimales de la columna "productprice"
-    df['productprice'] = df['productprice'].round(2).astype(str)
-
     # Obtener la cantidad de duplicados
     cantidad_duplicados = len(df) - len(eliminar_duplicados(df))
 
@@ -61,10 +58,10 @@ def convertir_xlsx_a_csv(ruta_archivo_xlsx, ruta_archivo_csv):
 
 
 # //////////Nombre del archivo de entrada .xlsx///////////
-archivo_in = "volutionPriceOutput-List_CP06_04082024.xlsx"
+archivo_in = "volutionPriceOutput-List_CP09_06082024.xlsx"
 
 # //////////Nombre del archivo de salida .csv//////////
-archivo_output = "volutionPriceOutput-List_CP06_04082024.csv"
+archivo_output = "volutionPriceOutput-List_CP09_06082024.csv"
 
 # Obtener la ruta de la carpeta donde está el archivo .py
 ruta_carpeta_py = os.path.dirname(os.path.abspath(__file__))
