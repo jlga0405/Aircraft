@@ -1,0 +1,454 @@
+[
+  {
+    "prodctCode": "CCR264CS3-2",
+    "cantidad": 300
+  },
+  {
+    "prodctCode": "HST1397TF8",
+    "cantidad": 500
+  },
+  {
+    "prodctCode": "HST97DUWU6",
+    "cantidad": 500
+  },
+  {
+    "prodctCode": "NAS9307M-4-07",
+    "cantidad": 500
+  },
+  {
+    "prodctCode": "NAS9313KE4-10",
+    "cantidad": 500
+  },
+  {
+    "prodctCode": "CCR264SS3-07",
+    "cantidad": 1000
+  },
+  {
+    "prodctCode": "CCR264SS3-10",
+    "cantidad": 1000
+  },
+  {
+    "prodctCode": "EN6101AD4-13",
+    "cantidad": 1000
+  },
+  {
+    "prodctCode": "EN6101AD5-05",
+    "cantidad": 1000
+  },
+  {
+    "prodctCode": "EN6114-6-12",
+    "cantidad": 1000
+  },
+  {
+    "prodctCode": "MBF2122-5-450",
+    "cantidad": 1000
+  },
+  {
+    "prodctCode": "CR3214-8-04",
+    "cantidad": 2000
+  },
+  {
+    "prodctCode": "HL10VF5-12",
+    "cantidad": 2000
+  },
+  {
+    "prodctCode": "HL11VF5-7",
+    "cantidad": 2000
+  },
+  {
+    "prodctCode": "HL11VF6-9",
+    "cantidad": 2000
+  },
+  {
+    "prodctCode": "HL113VF6-7",
+    "cantidad": 2500
+  },
+  {
+    "prodctCode": "MS20426D5-7",
+    "cantidad": 2500
+  },
+  {
+    "prodctCode": "MS20470D5-7",
+    "cantidad": 2500
+  },
+  {
+    "prodctCode": "MS20470DD6-8",
+    "cantidad": 2500
+  },
+  {
+    "prodctCode": "ABS0546D405",
+    "cantidad": 3000
+  },
+  {
+    "prodctCode": "HL13VF6-5",
+    "cantidad": 3000
+  },
+  {
+    "prodctCode": "HL411VF6-2",
+    "cantidad": 3000
+  },
+  {
+    "prodctCode": "HL413VF6-4",
+    "cantidad": 3000
+  },
+  {
+    "prodctCode": "HL413VF6-5",
+    "cantidad": 3000
+  },
+  {
+    "prodctCode": "HL413VF6-7",
+    "cantidad": 3000
+  },
+  {
+    "prodctCode": "HL413VF6-8",
+    "cantidad": 3000
+  },
+  {
+    "prodctCode": "MBF2110-08-650",
+    "cantidad": 3000
+  },
+  {
+    "prodctCode": "NAS1921M04S03AU",
+    "cantidad": 3000
+  },
+  {
+    "prodctCode": "NAS1921M06S04AU",
+    "cantidad": 3000
+  },
+  {
+    "prodctCode": "NAS1921M06S05",
+    "cantidad": 3000
+  },
+  {
+    "prodctCode": "NAS1921M06S05AU",
+    "cantidad": 3000
+  },
+  {
+    "prodctCode": "NAS1921M06S06AU",
+    "cantidad": 3000
+  },
+  {
+    "prodctCode": "CCR264SS4-03",
+    "cantidad": 3500
+  },
+  {
+    "prodctCode": "CCR264SS4-02",
+    "cantidad": 4000
+  },
+  {
+    "prodctCode": "CR2838-4-02",
+    "cantidad": 4000
+  },
+  {
+    "prodctCode": "HL13VF6-9",
+    "cantidad": 4000
+  },
+  {
+    "prodctCode": "ABS0254-5-100Z",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "ABS0254-5-200Z",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "ABS0254-5-250Z",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "ABS0254-6-100Z",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "ABS0254-6-200Z",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "ABS0254-6-250Z",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "AGS2050-419BS",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "ASNA0079-512A",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "ASNA2026VBV3-5",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "ASNA2027VBV3-9",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "CCR264CS3-04IPR",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "CR3222-4-04",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "CR3222-5-07",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "DAN7-10-13",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "DAN7-5-8",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "DAN7-8-8",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "DAN8-5-6",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "EN6081AD5-06",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "EN6081D4-06",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "EN6081D4-10",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "EN6081D4X-06",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "EN6101D4X-06",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "EN6101D5-07",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "EN6110-06-04",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "HL10VF5-2",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "HL12VF8-13",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "HL97-8",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "MBF2110-08-250",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "MBF2110-08-450",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "MBF2110-08-500",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "MBF2122-5-250",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "MS20426D4-6",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "MS20426D5-12",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "MS20426D5-8",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "MS20426D6-8",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "MS20426DD6-12",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "MS20426DD6-8",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "MS20426E5-8",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "MS20427M5-6",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "MS20427M6-18",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "MS20470D4-8",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "MS20615-5M8",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "MS20615-6M8",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "MS90353U0503",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "NAS1200-4-5",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "NAS1738B4-2",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "NAS1791C3-2",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "NAS1791C3-3",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "NAS1792C3-1",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "NAS1792C3-2",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "NAS1921B04S02",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "NAS1921C05S04U",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "NAS1921M04S02W",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "NAS1921M04S06",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "NAS1921M04S07",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "NAS1921M04S07W",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "NSA5414-36-12",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "NSA5414-36-15",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "NSA5415-32-015",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "NSA5415-36-12",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "NSA5415-36-15",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "NSA5415N24-10",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "NSA5415N32-10",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "NSA5472-3K7",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "NSA5472-6K7",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "CR3522PR5?04",
+    "cantidad": 5000
+  },
+  {
+    "prodctCode": "HL11VF5-3",
+    "cantidad": 10000
+  },
+  {
+    "prodctCode": "HL11VF5-6",
+    "cantidad": 10000
+  },
+  {
+    "prodctCode": "HL12VF5-5",
+    "cantidad": 10000
+  },
+  {
+    "prodctCode": "HL12VF6-2",
+    "cantidad": 10000
+  },
+  {
+    "prodctCode": "HL12VF6-7",
+    "cantidad": 10000
+  },
+  {
+    "prodctCode": "HL12VF8-7",
+    "cantidad": 10000
+  },
+  {
+    "prodctCode": "HL13VF5-3",
+    "cantidad": 10000
+  },
+  {
+    "prodctCode": "HL13VF5-7",
+    "cantidad": 10000
+  },
+  {
+    "prodctCode": "HL13VF6-3",
+    "cantidad": 10000
+  },
+  {
+    "prodctCode": "NAS1097D4-8",
+    "cantidad": 10000
+  },
+  {
+    "prodctCode": "NAS1097DD6-8",
+    "cantidad": 10000
+  }
+]

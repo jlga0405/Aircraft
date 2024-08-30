@@ -1,0 +1,58 @@
+import json
+import pandas as pd
+
+# Variables
+valor = 0.65
+file = 'productos.json'  # Nombre del archivo JSON de entrada
+cotizacion_file = 'cotizacion.json'  # Nombre del archivo JSON de cotización
+outputfile = 'priceventa.xlsx'  # Nombre del archivo XLSX de salida
+multiply = False  # Si es True, multiplica; si es False, divide
+
+# Cargar los archivos JSON
+with open(file, 'r') as f:
+    productos = json.load(f)
+
+with open(cotizacion_file, 'r') as f:
+    cotizacion = json.load(f)
+
+# Crear un diccionario para acceder a los productos por 'produtCode'
+productos_dict = {prod['produtCode']: prod for prod in productos}
+
+# Procesar los datos y calcular el precio sugerido
+for cot in cotizacion:
+    prod_code = cot['produtCode']
+    cantidad = cot['cantidad']
+
+    if prod_code in productos_dict:
+        producto = productos_dict[prod_code]
+        stock = producto['stock']
+        precio_base = producto['productPrice']
+        
+        # Determinar la cantidad a usar para el cálculo
+        cantidad_calculo = min(cantidad, stock)
+        
+        # Calcular el precio sugerido basado en la cantidad
+        if 0 <= cantidad <= 1999:
+            precio_sugerido = round(precio_base * 1.45, 2)
+        elif 2000 <= cantidad <= 5000:
+            precio_sugerido = round(precio_base * 0.30, 2)
+        elif 5001 <= cantidad <= 10000:
+            precio_sugerido = round(precio_base * 1.32, 2)
+        else:
+            precio_sugerido = precio_base
+        
+        # Calcular 'priceventa'
+        if multiply:
+            producto['priceventa'] = round(precio_sugerido * valor, 2)
+        else:
+            producto['priceventa'] = round(precio_sugerido / valor, 2)
+        
+        producto['sugerido'] = precio_sugerido
+
+# Convertir a DataFrame
+df = pd.DataFrame(productos)
+
+# Guardar en un archivo XLSX
+df.to_excel(outputfile, index=False)
+
+print(f"El archivo '{outputfile}' ha sido creado exitosamente.")
