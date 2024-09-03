@@ -19,7 +19,7 @@ if __name__ == "__main__":
     # Variables con los nombres de los archivos CSV de entrada
     file_1 = "asap-list-v2-2024-09-02-not-found.csv"
     file_2 = "asap-list-v2-2024-09-02-out-of-range.csv"
-    file_3 = "List_CP34_22082024.csv"
+    file_3 = "Lista_Nicrocraft_25082024.csv"
     
     # Lista de archivos a procesar
     files = [file_1, file_2, file_3]
