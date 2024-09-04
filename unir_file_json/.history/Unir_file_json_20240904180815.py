@@ -2,20 +2,20 @@ import json
 import pandas as pd
 
 # Nombres de los archivos JSON de entrada
-file_json2 = 'incorashop_02.json'
-file_json3 = 'incorashop_03.json'
-file_json1 = 'incorashop_01.json'
-file_json4 = 'incorashop_04.json'
-file_json5 = 'incorashop_05.json'
-file_json6 = 'incorashop_06.json'
-file_json7 = 'incorashop_07.json'
-file_json8 = 'incorashop_08.json'
+file_json2 = 'withoutResults_02.json'
+file_json3 = 'withoutResults_03.json'
+file_json1 = 'withoutResults_01.json'
+file_json4 = 'withoutResults_04.json'
+file_json5 = 'withoutResults_05.json'
+file_json6 = 'withoutResults_06.json'
+file_json7 = 'withoutResults_07.json'
+file_json8 = 'withoutResults_08.json'
 
 # Nombre del archivo JSON de salida
-file_output = 'output_KLX_General.json'
+file_output = 'output_withoutResults_General.json'
 
 # Nombre del archivo Excel de salida
-excel_output = 'output_KLX_General.xlsx'
+excel_output = 'output_withoutResults_General.xlsx'
 
 # Lista para almacenar todos los datos combinados
 combined_data = []
