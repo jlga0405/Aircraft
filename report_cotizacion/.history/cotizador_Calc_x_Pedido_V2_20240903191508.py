@@ -3,7 +3,7 @@ import pandas as pd
 
 # Variables
 reporte_file = 'high-stock-low-price-report.json'  # Nombre del archivo del reporte generado por insomnia
-ListaElba_file = 'Lista_Elba_30082024_cantidades.json'  # Nombre del archivo de la lista de elba
+ListaElba_file = 'Lista_Elba_27082024_cantidades.json'  # Nombre del archivo de la lista de elba
 outputfile = 'List_Cotizador_30082024.xlsx'  # Nombre del archivo XLSX de salida
 
 # Cargar los archivos JSON
