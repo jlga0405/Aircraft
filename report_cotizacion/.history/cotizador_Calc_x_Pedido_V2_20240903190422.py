@@ -2,9 +2,9 @@ import json
 import pandas as pd
 
 # Variables
-reporte_file = 'high-stock-low-price-report.json'  # Nombre del archivo del reporte generado por insomnia
-ListaElba_file = 'Lista_Elba_30082024_cantidades.json'  # Nombre del archivo de la lista de elba
-outputfile = 'List_Cotizador_30082024.xlsx'  # Nombre del archivo XLSX de salida
+reporte_file = 'productos.json'  # Nombre del archivo JSON de entrada
+ListaElba_file = 'cotizacion.json'  # Nombre del archivo JSON de cotización
+outputfile = 'List_Cotizador_27082024.xlsx'  # Nombre del archivo XLSX de salida
 
 # Cargar los archivos JSON
 with open(reporte_file, 'r') as f:
