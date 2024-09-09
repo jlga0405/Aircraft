@@ -10,9 +10,14 @@ vendor_files = [
     'proponent_General.json',
     'incorashop_General.json'
 ]
-list_correr = 'Lista_1878_07092024_03.json'
-nofound_file_template = 'partNumberNofound_{}.txt'  # Plantilla para archivos no encontrados
-output_file_template = 'output_Lista_1878_07092024_{}.json'  # Plantilla para archivos de salida
+list_correr = 'Lista_1878_07092024_04.json'
+
+# Extraer el número final de list_correr (antes de la extensión .json)
+numero_final = list_correr.split('_')[-1].replace('.json', '')
+
+# Modificar las plantillas para incluir el número final
+nofound_file_template = f'partNumberNofound_{numero_final}_{{}}.txt'  # Personalización
+output_file_template = f'output_Lista_1878_07092024_{numero_final}_{{}}.json'  # Personalización
 
 # Cargar la lista de correr
 with open(list_correr, 'r') as lc:

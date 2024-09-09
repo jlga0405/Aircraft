@@ -10,9 +10,9 @@ vendor_files = [
     'proponent_General.json',
     'incorashop_General.json'
 ]
-list_correr = 'Lista_1878_07092024_03.json'
+list_correr = 'Lista_1878_07092024_01.json'
 nofound_file_template = 'partNumberNofound_{}.txt'  # Plantilla para archivos no encontrados
-output_file_template = 'output_Lista_1878_07092024_{}.json'  # Plantilla para archivos de salida
+output_file_template = 'output_Lista_Agregar_{}.json'  # Plantilla para archivos de salida
 
 # Cargar la lista de correr
 with open(list_correr, 'r') as lc:

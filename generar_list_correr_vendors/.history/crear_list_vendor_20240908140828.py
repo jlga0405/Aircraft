@@ -2,8 +2,8 @@ import json
 
 # Variables
 vendor_file1 = 'Aviall_General.json'
-list_correr = 'Lista_1878_07092024_01.json'
-output_file = 'output_Lista_1878_07092024_01.json'
+list_correr = 'Lista_1878_07092024.json'
+output_file = 'output_Lista_Aviall_Agregar_05092024.json'
 nofound_file = 'partNumberNofound.txt'
 
 # Cargar los archivos JSON

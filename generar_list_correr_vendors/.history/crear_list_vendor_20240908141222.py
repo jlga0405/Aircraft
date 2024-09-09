@@ -2,7 +2,7 @@ import json
 
 # Variables
 vendor_file1 = 'Aviall_General.json'
-list_correr = 'Lista_1878_07092024_01.json'
+list_correr = 'Lista_1878_07092024.json'
 output_file = 'output_Lista_1878_07092024_01.json'
 nofound_file = 'partNumberNofound.txt'
 
