@@ -3,15 +3,14 @@ import os
 
 # Variables
 vendor_files = [
-    #'Aviall_General.json',
-    'airfasco_General.json'
-    #'wencor_General.json',
-    #'airparts_General.json',
-    #'klx_General.json',
-    #'proponent_General.json',
-    #'incorashop_General.json'
+    'Aviall_General.json',
+    'wencor_General.json',
+    'airparts_General.json',
+    'klx_General.json',
+    'proponent_General.json',
+    'incorashop_General.json'
 ]
-list_correr = 'Lista_1878_07092024.json'
+list_correr = 'Lista_1878_07092024__16.json'
 
 # Extraer el número final de list_correr (antes de la extensión .json)
 numero_final = list_correr.split('_')[-1].replace('.json', '')

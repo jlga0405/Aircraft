@@ -2,8 +2,8 @@ import json
 import pandas as pd
 
 
-stock_file = 'Inventario_stock_Quantum_26092024.json'
-inventario_file = 'Lista_inventario_26092024.json'
+stock_file = 'Inventario_stock_quatum_01.json'
+inventario_file = 'Lista_INVENTARIO_30082024.json'
 output_file = 'reporte_Inv_Quatum.xlsx'
 
 

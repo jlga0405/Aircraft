@@ -2,8 +2,8 @@ import pandas as pd
 import json
 
 # Definir los archivos de entrada y salida (en la misma ruta que el script)
-in_file = "Inv_Aircraf_04102024.json"  # Archivo de entrada (JSON)
-out_file = "Inv_Aircraf_04102024.xlsx"  # Archivo de salida (Excel)
+in_file = "INVENTARIO AL 23 DE SEPTIEMBRE ASS.json"  # Archivo de entrada (JSON)
+out_file = "AeroChange_grouped_2309.xlsx"  # Archivo de salida (Excel)
 
 # Cargar el archivo JSON
 with open(in_file, 'r') as file:
