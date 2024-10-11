@@ -1,7 +1,7 @@
 import json
 
 # Lee el archivo JSON
-with open('List_airfasco_Act_10102024.json', 'r') as f:
+with open('Act_Lonseal_precio_26032024.json', 'r') as f:
     data = json.load(f)
 
 # Itera sobre cada objeto y modifica el valor de productprice

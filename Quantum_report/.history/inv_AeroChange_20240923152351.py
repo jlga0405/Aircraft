@@ -2,8 +2,8 @@ import pandas as pd
 import json
 
 # Definir los archivos de entrada y salida (en la misma ruta que el script)
-in_file = "Inv_Aircraf_04102024.json"  # Archivo de entrada (JSON)
-out_file = "Inv_Aircraf_04102024.xlsx"  # Archivo de salida (Excel)
+in_file = "INVENTARIO AL 23 DE SEPTIEMBRE ASS.json"  # Archivo de entrada (JSON)
+out_file = "AeroChange_grouped_2309.xlsx"  # Archivo de salida (Excel)
 
 # Cargar el archivo JSON
 with open(in_file, 'r') as file:
@@ -15,19 +15,19 @@ df = pd.DataFrame(data)
 # Verifica los tipos de datos de cada columna
 print(df.dtypes)
 
-# Convertir la columna 'Qty' a numérica, invalidando los no numéricos
-df['Qty'] = pd.to_numeric(df['Qty'], errors='coerce')
+# Convertir la columna 'Qty Avl' a numérica, invalidando los no numéricos
+df['Qty Avl'] = pd.to_numeric(df['Qty Avl'], errors='coerce')
 
-# Eliminar filas donde 'Qty' no es numérico (es decir, es NaN)
-df = df.dropna(subset=['Qty'])
+# Eliminar filas donde 'Qty Avl' no es numérico (es decir, es NaN)
+df = df.dropna(subset=['Qty Avl'])
 
 # Asegurarse de que las columnas utilizadas para agrupar sean de tipo string
 df['Part Number'] = df['Part Number'].astype(str)
 df['Part Description'] = df['Part Description'].astype(str)
 df['Cond'] = df['Cond'].astype(str)
 
-# Agrupar los datos por las columnas 'Part Number', 'Part Description' y 'Cond', sumando la columna 'Qty'
-df_grouped = df.groupby(['Part Number', 'Part Description', 'Cond'], as_index=False).agg({'Qty': 'sum'})
+# Agrupar los datos por las columnas 'Part Number', 'Part Description' y 'Cond', sumando la columna 'Qty Avl'
+df_grouped = df.groupby(['Part Number', 'Part Description', 'Cond'], as_index=False).agg({'Qty Avl': 'sum'})
 
 # Verifica el resultado de la agrupación
 print(df_grouped)
