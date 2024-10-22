@@ -11,14 +11,14 @@ vendor_files = [
     'proponent_General.json',
     'incorashop_General.json'
 ]
-list_correr = 'Lista_1878_07092024__50.json'
+list_correr = 'Lista_1878_07092024__41.json'
 
 # Extraer el número final de list_correr (antes de la extensión .json)
 numero_final = list_correr.split('_')[-1].replace('.json', '')
 
 # Modificar las plantillas para que el número final esté al final del nombre del archivo
 nofound_file_template = f'partNumberNofound_{{}}_{numero_final}.txt'  # Personalización
-output_file_template = f'output_Lista_1878_07092024_{{}}_{numero_final}.json'  # Personalización
+output_file_template = f'output_Lista_1878_07092024__41_{{}}_{numero_final}.json'  # Personalización
 
 # Cargar la lista de correr
 with open(list_correr, 'r') as lc:

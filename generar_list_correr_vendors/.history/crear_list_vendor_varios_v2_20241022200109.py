@@ -11,7 +11,7 @@ vendor_files = [
     'proponent_General.json',
     'incorashop_General.json'
 ]
-list_correr = 'Lista_1878_07092024__50.json'
+list_correr = 'Lista_1878_07092024__48.json'
 
 # Extraer el número final de list_correr (antes de la extensión .json)
 numero_final = list_correr.split('_')[-1].replace('.json', '')
