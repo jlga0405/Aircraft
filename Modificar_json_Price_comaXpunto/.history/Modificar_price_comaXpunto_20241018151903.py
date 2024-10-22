@@ -1,13 +1,13 @@
 import json
 
 # Lee el archivo JSON
-with open('archivo_modificado_arreglar.json', 'r') as f:
+with open('Lista_PPG_Flamaster_subir_Volusion_18102024.json', 'r') as f:
     data = json.load(f)
 
 # Itera sobre cada objeto y modifica el valor de productprice
 for product in data:
     # Convierte el valor de productprice a una cadena y luego realiza el reemplazo
-    product['productprice'] = str(product['productprice']).replace(',', '.')
+    product['productweight'] = str(product['productweight']).replace(',', '.')
 
 # Guarda el JSON modificado en un nuevo archivo
 with open('archivo_modificado.json', 'w') as f:
